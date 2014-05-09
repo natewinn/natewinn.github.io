@@ -3,25 +3,26 @@ layout: page
 title: Colophon
 ---
 
-My name is Nate Winn and I live in the heart of the Silicon Valley with my wife Jo and my little boy, Owen. Currently, I'm attending fulfilling a dream and attending the RubyOnRails cohort at [The Iron Yard](http://theironyard.com/) in Atlanta.
+My name is Nate Winn and I live in the heart of the Silicon Valley with my wife [Jo](http://twitter.com/jo_winn) and my little boy, Owen. Currently, I'm a part of the [RubyOnRails](http://rubyonrails.org/) cohort at [The Iron Yard](http://theironyard.com/) based out of [Atlanta Tech Village](http://atlantatechvillage.com/).
 
-You'll find me writing about a myriad of topics on this site, but predominately coding, technology, and design will be the topics. I've been writing here since 2014.
+You'll find me writing about a myriad of topics here, but mostly coding, technology, and design. This has been my virtual home since 2014.
 
-You can also find me on Twitter, [here](https://twitter.com/natewinn) or on GitHub, [here](https://github.com/poole).
+You can also find me tweeting, [here](https://twitter.com/natewinn) or committing, [here](https://github.com/natewinn).
 
 ## My Setup
 
-This blog is hosted on [GitHub Pages](https://pages.github.com/), run by [Jekyll](http://jekyllrb.com/), built on the [Lanyon](https://github.com/poole/lanyon) theme, and written in [Markdown](http://daringfireball.net/projects/markdown/).
+This blog is run on [Jekyll](http://jekyllrb.com/), built on the [Lanyon](https://github.com/poole/lanyon) theme, written in [Markdown](http://daringfireball.net/projects/markdown/), and hosted on [GitHub Pages](https://pages.github.com/).
 
-I'm a big fan of apple products. I write and code on a 2011 [13-inch MacBook Air](https://www.apple.com/macbook-air/) and talk and text on an [iPhone 5](https://www.apple.com/iphone/).
+I'm a fan of Apple products. I write and code on a 2011 [13-inch MacBook Air](https://www.apple.com/macbook-air/) and talk and text on an [iPhone 5](https://www.apple.com/iphone/). I also snap pictures and video clips on a [Canon70D](http://www.amazon.com/Canon-20-2-Digital-Camera-Pixel/dp/B00DMS0GTC). 
 
-## Mac Tools
+## My Toolbox
 
-My toolbox is pretty basic though I am constantly trying out new software to see if it improves my workflow. You can take a closer look at the software I use on a daily basis below.	
+My software toolbox is pretty basic though I'm constantly trying out new tools to see if my workflow improves. I've found that I don't need a bunch of fancy tools to get the job done, just a few really good ones. Here's a list of what I use on the daily.	
 
 * [1Password](https://agilebits.com/onepassword) to remember
 * [Airmail](http://airmailapp.com/) to email
 * [Aodobe CC](http://www.adobe.com/products/creativecloud.html) to design
+* [Cyberduck](http://cyberduck.io/?l=en) to upload
 * [Dropbox](https://db.tt/l0Vpv4R) to store and share
 * [Google Chrome](https://www.google.com/intl/en_US/chrome/browser/) to browse
 * [nvAlt](http://brettterpstra.com/projects/nvalt/) to jot notes
@@ -31,10 +32,10 @@ My toolbox is pretty basic though I am constantly trying out new software to see
 * [Tweetbot](http://tapbots.com/software/tweetbot/mac/) to tweet
 * [YNAB](http://ynab.referralcandy.com/5KWFLW8) to budget
 
-## Other Tools
+## Other Essentials
 
-I also couldn't do without [The Roost Stand](http://www.therooststand.com/) to perch my laptop up, [Parrot Zik Headphones](http://www.parrot.com/zik/usa/) to block out distractions, [Apple Wireless Keyboard](https://www.apple.com/keyboard/), and [Apple Magic Mouse](https://www.apple.com/magicmouse/). I'm always scribbling jotting down thoughts. Currently, these are captured in a [Barron Fig Confidant](http://www.baronfig.com/). I tote all this stuff around in a [Minaal backpack](http://www.minaal.com/). 
+In addition, I couldn't do without [The Roost Stand](http://www.therooststand.com/) to perch my laptop, [Parrot Zik Headphones](http://www.parrot.com/zik/usa/) to block out distractions, and the [Apple Wireless Keyboard](https://www.apple.com/keyboard/) and [Apple Magic Mouse](https://www.apple.com/magicmouse/) combo. I'm always scribbling down my thoughts in various notebooks. Currently, these are captured in a [Barron Fig Confidant](http://www.baronfig.com/). And last, but not least, I tote everything around in a [Minaal backpack](http://www.minaal.com/). 
 
-Feel free to reach out to me anytime by email at hi[@]natewinn.com or on twitter at @natewinn.
+Feel free to reach out to me anytime with comments or suggestions by email at hi[@]natewinn.com or Twitter at [@natewinn](https://twitter.com/natewinn).
 
 Thanks for reading!
