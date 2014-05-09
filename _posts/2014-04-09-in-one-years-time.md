@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In One Year's Time
+comments: true
 ---
 
 Exactly one year ago today, I created an account at [Dev Bootcamp](http://devbootcamp.com/) and began to fill out an applicaiton in hopes to join an upcoming cohort. But, that very same night, I began to reason to myself why I would never be able to attend. 
