@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Nate Winn</title>
+ <link href="http://natewinn.com/atom.xml" rel="self"/>
+ <link href="http://natewinn.com/"/>
+ <updated>2014-05-09T06:45:23-04:00</updated>
+ <id>http://natewinn.com</id>
+ <author>
+   <name>Nate Winn</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>In One Year's Time</title>
+   <link href="http://natewinn.com/2014/04/09/in-one-years-time/"/>
+   <updated>2014-04-09T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/04/09/in-one-years-time</id>
+   <content type="html">&lt;p&gt;Exactly one year ago today, I created an account at &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; and began to fill out an applicaiton in hopes to join an upcoming cohort. But, that very same night, I began to reason to myself why I would never be able to attend. &lt;/p&gt;
+
+&lt;h2&gt;Excuses, Excuses&lt;/h2&gt;
+
+&lt;p&gt;Of course, I had &lt;em&gt;plenty of excuses&lt;/em&gt;. In just three months, my wife and I were expecting our first child, I had no where near the money I needed for entry, and then there was the small detail of supporting my family without any income for three months! My aspirations of attending a coding bootcamp became a distant memory. I was twenty-nine years-old and accepted the fact that my time to do work that truly excited me had past. I came to accept it.&lt;/p&gt;
+
+&lt;p&gt;Shortly after the first of the year, I was casually browsing through Twitter and noticed &lt;a href=&quot;http://john.do/&quot;&gt;John Saddington&lt;/a&gt;, whom I have been following for years, mention &lt;a href=&quot;http://theironyard.com/&quot;&gt;The Iron Yard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I quickly googled &amp;quot;The Iron Yard&amp;quot;  and my curiousity was instantly peaked. I immediately emailed John, and it just so happened that he was going to be in San Francisco the very next day to speak at a conference. &lt;/p&gt;
+
+&lt;h2&gt;My Year&lt;/h2&gt;
+
+&lt;p&gt;While grabbing sushi that very next evening, John told me just a handful of the amazing stories of people in similar situations that had attended The Iron Yard. In just a 3-month period of time, people were completely changing the course of their life. Just before I hopped into my car to drive home from the city that evening, John tweeted this . . .&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Make this the year. Don’t let it go to waste.&lt;/p&gt;&amp;mdash; John Saddington (@saddington) &lt;a href=&quot;https://twitter.com/saddington/statuses/428403179722506240&quot;&gt;January 29, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;That night, I decided this &lt;em&gt;was going to be my year&lt;/em&gt;! Last Sunday, I moved sight unseen across the country from the Silicon Valley to Atlanta to become a coder. Today, exactly one year from the day I registered at Dev Bootcamp, I&amp;#39;m writing this post from inside &lt;a href=&quot;http://atlantatechvillage.com/&quot;&gt;Atlanta Tech Village&lt;/a&gt;, the amazing facility where The Iron Yard - Atlanta is located. Though only one-week into the Rails dev cohort, I&amp;#39;ve already been challenged, stretched, and pushed more in this short period than I ever have in my entire life. It has been an amazing ride so far and I can&amp;#39;t wait to see what lies in store. &lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
