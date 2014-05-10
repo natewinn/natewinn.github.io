@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Nate Winn</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2014-05-10T00:12:20-04:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <link href="http://natewinn.com/atom.xml" rel="self"/>
+ <link href="http://natewinn.com/"/>
+ <updated>2014-05-10T13:25:41-04:00</updated>
+ <id>http://natewinn.com</id>
  <author>
    <name>Nate Winn</name>
    <email></email>
@@ -13,10 +13,34 @@
 
  
  <entry>
+   <title>Halfway There</title>
+   <link href="http://natewinn.com/2014/05/10/halfway-there/"/>
+   <updated>2014-05-10T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/10/halfway-there</id>
+   <content type="html">&lt;p&gt;My son, Owen, will be 9 months old tomorrow. &lt;em&gt;I can&amp;#39;t believe how fast the time has gone by&lt;/em&gt;! On days this, I like to look through the pictures my wife and I have taken of him and take just a few moments to reminisce.&lt;/p&gt;
+
+&lt;p&gt;Without fail, I say to my wife, &amp;quot;I can&amp;#39;t believe how much he has grown!&amp;quot; In fact, I always remind her of the picture I took when she put him in his carseat for the the very first time. His newborn clothes were so big on him and he nearly disappeared into his carseat. &lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s so apparent by looking back to his first few days of life to see how much he has grown. He now sleeps through the night, crawls, interacts with us, and climbs on things (yes, he climbed up there all by himself in that picture below). My son&amp;#39;s growth or &amp;quot;progress&amp;quot; is &lt;em&gt;so easy to overlook on a daily basis&lt;/em&gt;. My progress at The Iron Yard is no different.&lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-10-owen-on-nightstand.jpg&quot; alt=&quot;Owen on the Nightstand&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Owen perched on his favorite spot&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2&gt;Overlooking Progress&lt;/h2&gt;
+
+&lt;p&gt;The daily grind is taxing and it seems that our cohort is making slow progress. But, when you take a step back and look at the &lt;a href=&quot;https://gist.github.com/natewinn/9912926&quot;&gt;first gist&lt;/a&gt; we posted on GitHub, you can definitely see it. &lt;em&gt;Real, genuine progress&lt;/em&gt;! Don&amp;#39;t get me wrong, in the world of RubyOnRails I&amp;#39;m still an infant crawling around on the floor. But I&amp;#39;m definately not a newborn any longer. &lt;/p&gt;
+
+&lt;p&gt;Six weeks ago today, I boarded an airplane to leave my family knowing next to nothing about code. Yesterday, I pushed a web app to a &lt;a href=&quot;https://github.com/natewinn/remember&quot;&gt;GitHub Repo&lt;/a&gt; where users can upload photos and add tags and comments. And, no, I didn&amp;#39;t know what a &amp;quot;GitHub Repo&amp;quot; was 6 weeks ago. Looking back, today, at &amp;quot;half-time,&amp;quot; &lt;em&gt;it is amazing to see the progress&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;When setting out to achieve a goal, no matter how big or small, I challenge you to take a step back on &lt;strong&gt;milestone days&lt;/strong&gt; and recall the progress you made. Not to pat yourself on the back for the steps that you&amp;#39;ve made, but to motivate you to accomplish even more in the days ahead.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>In One Year's Time</title>
-   <link href="http://lanyon.getpoole.com/2014/04/09/in-one-years-time/"/>
+   <link href="http://natewinn.com/2014/04/09/in-one-years-time/"/>
    <updated>2014-04-09T00:00:00-04:00</updated>
-   <id>http://lanyon.getpoole.com/2014/04/09/in-one-years-time</id>
+   <id>http://natewinn.com/2014/04/09/in-one-years-time</id>
    <content type="html">&lt;p&gt;Exactly one year ago today, I created an account at &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; and began to fill out an applicaiton in hopes to join an upcoming cohort. But, that very same night, I began to reason to myself why I would never be able to attend. &lt;/p&gt;
 
 &lt;h2&gt;Excuses, Excuses&lt;/h2&gt;
