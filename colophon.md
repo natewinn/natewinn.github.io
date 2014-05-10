@@ -7,7 +7,7 @@ My name is Nate Winn and I live in the heart of the Silicon Valley with my wife 
 
 You'll find me writing about a myriad of topics here, but mostly coding, technology, and design. This has been my virtual home since 2014.
 
-You can also find me tweeting, [here](https://twitter.com/natewinn) or committing, [here](https://github.com/natewinn).
+You can also find me tweeting, [here](https://twitter.com/natewinn) and committing, [here](https://github.com/natewinn).
 
 ## My Setup
 

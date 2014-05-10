@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Nate Winn</title>
- <link href="http://natewinn.com/atom.xml" rel="self"/>
- <link href="http://natewinn.com/"/>
- <updated>2014-05-09T18:01:08-04:00</updated>
- <id>http://natewinn.com</id>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2014-05-10T00:12:20-04:00</updated>
+ <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Nate Winn</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>In One Year's Time</title>
-   <link href="http://natewinn.com/2014/04/09/in-one-years-time/"/>
+   <link href="http://lanyon.getpoole.com/2014/04/09/in-one-years-time/"/>
    <updated>2014-04-09T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/09/in-one-years-time</id>
+   <id>http://lanyon.getpoole.com/2014/04/09/in-one-years-time</id>
    <content type="html">&lt;p&gt;Exactly one year ago today, I created an account at &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; and began to fill out an applicaiton in hopes to join an upcoming cohort. But, that very same night, I began to reason to myself why I would never be able to attend. &lt;/p&gt;
 
 &lt;h2&gt;Excuses, Excuses&lt;/h2&gt;
