@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Nate Winn
 tagline:          'A Jekyll theme'
 description:      'My thoughts on coding, technology, design and the like. Written by <a href="https://twitter.com/natewinn" target="_blank">@natewinn</a>.'
-url:              http://lanyon.getpoole.com
+url:              http://natewinn.com
 
 author:
   name:           'Nate Winn'
@@ -21,10 +21,6 @@ paginate:         5
 
 github:
   repo:           https://github.com/natewinn
-
-name: A responsive Jekyll blog
-pygments: true
-markdown: redcarpet
 
 picture:
   source: assets/images/_fullsize
