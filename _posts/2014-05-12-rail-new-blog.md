@@ -16,7 +16,7 @@ Though this is *technically* my first post, I'm sure you'll notice there's quite
 
 This blog is rolling on [Jekyll](http://jekyllrb.com/). Here's why I chose Jekyll...
 
-<img>![Jekyll Logo]({{ natewinn.com }}/assets/2014-05-12- jekyll_logo.png)</img>
+<img>![Jekyll Logo]({{ natewinn.com }}/assets/2014-05-12-jekyll-logo.png)</img>
 
 ##Fast Setup
 No, really. It is super fast to get up and running. If you don't believe me, check out this [tutorial](https://medium.com/web-design-and-development/4d3e24320d47). You can have it up and running in about 10 minutes without an tweaks configurations.

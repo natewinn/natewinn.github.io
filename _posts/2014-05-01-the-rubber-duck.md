@@ -8,6 +8,7 @@ Today, [Tim Whitacre](http://timw.co/) of [Argyll Studios](http://argyllstudios.
 
 <img>![Rubber Duck]({{ natewinn.com }}/assets/2014-05-01-rubber-duck.jpg)</img>
 
+## Line-by-line
 Duck programming is debugging by explaining your code line-by-line to a rubber duck. In other words, describing what the code is *supposed to do* and then *observing what it actually does*. Tim said that duck programming has enabled him to solve countless problems he has encountered over the years. When stumped, he challenged us to answer the following questions about our code: 
 
 1. What is your code actually doing?
