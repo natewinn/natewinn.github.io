@@ -6,7 +6,7 @@ comments: true
 
     puts Hello World
 
-Hi, my name is [Nathan Winn]({% post_url 2014-04-08-how-to-win-the-internet %}). You can call me Nate. This is my new home. Welcome.
+Hi, my name is [Nathan Winn](http://natewinn.com/colophon/). You can call me Nate. This is my new home. Welcome.
 
 I've wanted to start a blog for a *very* long time. I've owned this domain for years, but I've made excuse after excuse to not get something started. You know, the typical ones. "I don't have enough time," "nobody is interested in what I have to say," and "I'm not talented enough to make the site look good." 
 
