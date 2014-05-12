@@ -7,8 +7,8 @@ My name is Nate Winn, and I live in the heart of the Silicon Valley with my wife
 
 You'll find me writing about a myriad of topics here, but mostly coding, technology, and design. This has been my virtual home since 2014.
 
-<img>![Online in an Airplane]({{ natewinn.com }}/assets/2014-03-29-the-journey-begins.jpg)</img>
-<figure><figcaption>You can also find me tweeting, [here](https://twitter.com/natewinn) and committing, [here](https://github.com/natewinn)</figcaption></figure>
+<img>![Online in an Airplane]({{ natewinn.com }}/assets/colophon-pic.jpg)</img>
+<figure><figcaption>You can also find me on Twitter, [here](https://twitter.com/natewinn) and on GitHub, [here](https://github.com/natewinn)</figcaption></figure>
 
 ## My Setup
 This blog is run on [Jekyll](http://jekyllrb.com/), built on the [Lanyon](https://github.com/poole/lanyon) theme, written in [Markdown](http://daringfireball.net/projects/markdown/), hosted on [GitHub Pages](https://pages.github.com/), and proofed by my amazing wife (you should hire [her](http://www.fiverr.com/jowinn/proofread-and-edit-your-document)).
