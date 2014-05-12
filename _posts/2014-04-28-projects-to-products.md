@@ -9,7 +9,7 @@ John spoke to us today about his latest creation [Pressgram](http://pressgr.am/)
 ## Innovative solutions are mashups of ineffective solutions
 There is nothing new under the sun! Innovators that are winning are able to take current ineffective solutions and mash them up to create a winning product. 
 
->Complexity is easy to create, but simplicity is art
+>"Complexity is easy to create, but simplicity is art."
 
 Often times, innovative products are nothing more than *simplifications*. If you create systems to take complex problems and make them simplistic, you will be on the fast track to creating effective products.
 
