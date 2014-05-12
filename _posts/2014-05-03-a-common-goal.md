@@ -15,7 +15,7 @@ When my wife and I finally decided I would attend The Iron Yard, she also wanted
 ## Motivated By Others
 This weekend, I was able to fly across the country for just a day and a half to see my wife complete the [Western Pacific Marathon](http://www.brazenracing.com/westernpacific.html). It was incredibly motivating to see her cross that finish line. I keep a picture of her wearing the finisher's medal on my desktop and often look at it during the day. It motivates me to press forward becuase I so often get discouraged.
 
-<!-- <img>![Winn Family After the Race]({{ natewinn.com }}/assets/2014-05-03-before-running-marathon.jpg)</img>
-<figure><figcaption>After Crossing the Finish Line</figcaption></figure>  -->
+<img>![Winn Family After the Race]({{ natewinn.com }}/assets/2014-05-03-after-run.jpg)</img>
+<figure><figcaption>After Crossing the Finish Line</figcaption></figure> 
 
 There have been *numerous* times along the way that I've really wanted to throw in the towel. It says **intensive** on The Iron Yard website for good reason! But, I try to remember the [people]({% post_url 2014-04-15-teamwork-makes-the-dream-work %}) pulling for me, and I don't want to let them down. I would encourage you in setting out to achieve something big, take someone along for the ride.
