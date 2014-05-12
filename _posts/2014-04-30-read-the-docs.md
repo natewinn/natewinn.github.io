@@ -25,4 +25,4 @@ The book, [137 Books in One Year](http://www.amazon.com/gp/product/B00B3HLOA4/re
 
 Don't get me wrong...I'm literally getting about 5 hours of sleep a night. But, the small amounts of time I do have I try to recapture.
 
-**Kindle + RailsGuides = Awesome**
+**Kindle + Rails Guides = Awesome**
