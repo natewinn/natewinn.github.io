@@ -20,7 +20,7 @@ My software toolbox is pretty basic though I'm constantly trying out new tools t
 
 * [1Password](https://agilebits.com/onepassword) to remember
 * [Airmail](http://airmailapp.com/) to email
-* [Aodobe CC](http://www.adobe.com/products/creativecloud.html) to design
+* [Adobe CC](http://www.adobe.com/products/creativecloud.html) to design
 * [Cyberduck](http://cyberduck.io/?l=en) to upload
 * [Dropbox](https://db.tt/l0Vpv4R) to store and share
 * [Google Chrome](https://www.google.com/intl/en_US/chrome/browser/) to browse
