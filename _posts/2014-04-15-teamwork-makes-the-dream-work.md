@@ -23,4 +23,4 @@ Why? She's a self-taught Rubyist that has only been coding for a short time. She
 ## Teammates 
 Your "teammates" are those who have set out to accomplish the same exact thing as you. My teammates are those who are a part of the spring [Rails cohort](http://theironyard.com/academy/rails-engineering/) at The Iron Yard. We are in it together, day in and day out. We learn together, work together, and laugh together (which is essential, *trust me*). We all live on HipChat, where we can send out a call for help or post some memes for comic relief. There are times when you can lift up a fellow teammate teammates and others are accessible to help you understand what they too struggled with. 
 
-No matter what you set out to accomplish, there is always value in building a team that, in turn, can help build you up. Setting out to achieve something great? Build a great team.
+No matter what you set out to accomplish, there is always value in building a team that, in turn, can help build you up. Setting out to achieve something great? *Build a great team*.
