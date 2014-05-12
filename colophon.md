@@ -8,7 +8,7 @@ My name is Nate Winn, and I live in the heart of the Silicon Valley with my wife
 You'll find me writing about a myriad of topics here, but mostly coding, technology, and design. This has been my virtual home since 2014.
 
 <img>![Online in an Airplane]({{ natewinn.com }}/assets/colophon-pic.jpg)</img>
-<figure><figcaption>You can also find me on Twitter, [here](https://twitter.com/natewinn) and on GitHub, [here](https://github.com/natewinn)</figcaption></figure>
+<figure><figcaption>You can also find me on [Twitter](https://twitter.com/natewinn) and on [GitHub](https://github.com/natewinn)</figcaption></figure>
 
 ## My Setup
 This blog is run on [Jekyll](http://jekyllrb.com/), built on the [Lanyon](https://github.com/poole/lanyon) theme, written in [Markdown](http://daringfireball.net/projects/markdown/), hosted on [GitHub Pages](https://pages.github.com/), and proofed by my amazing wife (you should hire [her](http://www.fiverr.com/jowinn/proofread-and-edit-your-document)).
@@ -32,8 +32,8 @@ My software toolbox is pretty basic though I'm constantly trying out new tools t
 * [YNAB](http://ynab.referralcandy.com/5KWFLW8) to budget
 
 ## Other Essentials
-In addition, I couldn't do without [The Roost Stand](http://www.therooststand.com/) to perch my laptop, [Parrot Zik Headphones](http://www.parrot.com/zik/usa/) to block out distractions, and the [Apple Wireless Keyboard](https://www.apple.com/keyboard/) and [Apple Magic Mouse](https://www.apple.com/magicmouse/) combo. I'm always scribbling down my thoughts in various notebooks. Currently, these are captured in a [Barron Fig Confidant](http://www.baronfig.com/). And last, but not least, I tote everything around in a [Minaal backpack](http://www.minaal.com/). 
+In addition, I couldn't do without [The Roost Stand](http://www.therooststand.com/) to perch my laptop, [Parrot Zik Headphones](http://www.amazon.com/Parrot-Wireless-Cancelling-Headphones-Control/dp/B0081TH24O) to block out distractions, and the [Apple Wireless Keyboard](https://www.apple.com/keyboard/) and [Apple Magic Mouse](https://www.apple.com/magicmouse/) combo. I'm always scribbling down my thoughts in various notebooks. Currently, these are captured in a [Barron Fig Confidant](http://www.baronfig.com/). And last, but not least, I tote everything around in a [Minaal backpack](http://www.minaal.com/). 
 
-Feel free to reach out to me anytime with comments or on Twitter at [@natewinn](https://twitter.com/natewinn).
+Feel free to reach out to me anytime with comments or on Twitter at [@natewinn](https://twitter.com/natewinn)
 
 Thanks for reading!
