@@ -14,9 +14,9 @@ Recently, I've been challenged by both [John Saddington]({% post_url 2014-04-08-
 
 Though this is *technically* my first post, I'm sure you'll notice there's quite a bit of content already posted. I started writing posts in my text editor since I began my coding journey at [The Iron Yard](http://theironyard.com/) knowing that one day, I would finally create a site to post them. *That day is today*!
 
-<img>![Jekyll Logo]({{ natewinn.com }}/assets/2014-05-12- jekyll_logo.png)</img>
-
 This blog is rolling on [Jekyll](http://jekyllrb.com/). Here's why I chose Jekyll...
+
+<img>![Jekyll Logo]({{ natewinn.com }}/assets/2014-05-12- jekyll_logo.png)</img>
 
 ##Fast Setup
 No, really. It is super fast to get up and running. If you don't believe me, check out this [tutorial](https://medium.com/web-design-and-development/4d3e24320d47). You can have it up and running in about 10 minutes without an tweaks configurations.
