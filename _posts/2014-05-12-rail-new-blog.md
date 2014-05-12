@@ -19,7 +19,7 @@ This blog is rolling on [Jekyll](http://jekyllrb.com/). Here's why I chose Jekyl
 <img>![Jekyll Logo]({{ natewinn.com }}/assets/2014-05-12-jekyll-logo.png)</img>
 
 ##Fast Setup
-No, really. It is super fast to get up and running. If you don't believe me, check out this [tutorial](https://medium.com/web-design-and-development/4d3e24320d47). You can have it up and running in about 10 minutes without an tweaks configurations.
+No, really. It is super fast to get up and running. If you don't believe me, check out this [tutorial](https://medium.com/web-design-and-development/4d3e24320d47). You can have it up and running in about 10 minutes without any tweaks to the configuration.
 
 ##Built on Ruby
 Jekyll is not really a CMS, but a parsing engine bundled as a Ruby gem. It is a static site that is created by dynamic components. Jekyll is known as "a simple, blog aware, static site generator." It is focused on blogging, but it has been used to create some pretty [epic sites](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/) too. Since I'm currently learning Rails having a "blog" built in Ruby is a perfect fit.
