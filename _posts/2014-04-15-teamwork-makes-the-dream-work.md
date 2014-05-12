@@ -18,7 +18,7 @@ Find someone who knows their stuff and can help you learn it. The leader of our 
 <blockquote class="twitter-tweet" lang="en"><p>I am still pretty starstruck that I got <a href="https://twitter.com/switzerly">@switzerly</a> to teach Ruby at <a href="https://twitter.com/TheIronYard">@TheIronYard</a>. Lucky us and lucky students! She&#39;s a joy to work with.</p>&mdash; Mason Stewart (@masondesu) <a href="https://twitter.com/masondesu/statuses/455122730921508864">April 12, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Why? She's a self-taught Rubyist that has only been coding for a short time. She relates to us learning "late." Because of this, she draws from her own experiences and knows how much we are capable of, pushing us accordingly. 
+Why? She's a self-taught Rubyist that has only been coding for a short time. She relates to us learning "late." Because of this, she draws from her own experiences and knows how much we are capable of, pushing us accordingly. In addition, she taught English as a second-language to children in Nepal which is so important because programming is a language.
 
 ## Teammates 
 Your "teammates" are those who have set out to accomplish the same exact thing as you. My teammates are those who are a part of the spring [Rails cohort](http://theironyard.com/academy/rails-engineering/) at The Iron Yard. We are in it together, day in and day out. We learn together, work together, and laugh together (which is essential, *trust me*). We all live on HipChat, where we can send out a call for help or post some memes for comic relief. There are times when you can lift up a fellow teammate teammates and others are accessible to help you understand what they too struggled with. 
