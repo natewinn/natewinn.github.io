@@ -4,7 +4,7 @@
  <title>Nate Winn</title>
  <link href="http://natewinn.com/atom.xml" rel="self"/>
  <link href="http://natewinn.com/"/>
- <updated>2014-05-10T13:25:41-04:00</updated>
+ <updated>2014-05-16T08:29:56-04:00</updated>
  <id>http://natewinn.com</id>
  <author>
    <name>Nate Winn</name>
@@ -13,54 +13,464 @@
 
  
  <entry>
-   <title>Halfway There</title>
-   <link href="http://natewinn.com/2014/05/10/halfway-there/"/>
-   <updated>2014-05-10T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/10/halfway-there</id>
-   <content type="html">&lt;p&gt;My son, Owen, will be 9 months old tomorrow. &lt;em&gt;I can&amp;#39;t believe how fast the time has gone by&lt;/em&gt;! On days this, I like to look through the pictures my wife and I have taken of him and take just a few moments to reminisce.&lt;/p&gt;
+   <title>The Language of the Future</title>
+   <link href="http://natewinn.com/2014/05/16/the-language-of-the-future/"/>
+   <updated>2014-05-16T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/16/the-language-of-the-future</id>
+   <content type="html">&lt;p&gt;Though I&amp;#39;m 30-years-old and just now diving into coding, I realize there is no better time to learn than &lt;strong&gt;now&lt;/strong&gt;. It&amp;#39;s never &lt;em&gt;too late&lt;/em&gt; to start learning. The landscape is changing so fast that &lt;em&gt;everyone&lt;/em&gt; has to be continually learning the latest technologies. So, there&amp;#39;s always a good spot to jump in. Don&amp;#39;t let a late start discourage you from getting started! There&amp;#39;s no better day than &lt;strong&gt;today&lt;/strong&gt; to start learning.&lt;/p&gt;
 
-&lt;p&gt;Without fail, I say to my wife, &amp;quot;I can&amp;#39;t believe how much he has grown!&amp;quot; In fact, I always remind her of the picture I took when she put him in his carseat for the the very first time. His newborn clothes were so big on him and he nearly disappeared into his carseat. &lt;/p&gt;
+&lt;p&gt;Starbucks is my usual Sunday morning spot. I get there early to work on my weekend homework. This past Sunday, the New York Times caught my eye on the way in. This was on the front page:&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s so apparent by looking back to his first few days of life to see how much he has grown. He now sleeps through the night, crawls, interacts with us, and climbs on things (yes, he climbed up there all by himself in that picture below). My son&amp;#39;s growth or &amp;quot;progress&amp;quot; is &lt;em&gt;so easy to overlook on a daily basis&lt;/em&gt;. My progress at The Iron Yard is no different.&lt;/p&gt;
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-16-the-language-of-the-future.jpg&quot; alt=&quot;NYT Article - Reading, Writing, and Now Coding&quot;&gt;&lt;/img&gt;&lt;figure&gt;&lt;figcaption&gt;Parents and Educators are Realizing the Importance of Coding&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-10-owen-on-nightstand.jpg&quot; alt=&quot;Owen on the Nightstand&quot;&gt;&lt;/img&gt;
-&lt;figure&gt;&lt;figcaption&gt;Owen perched on his favorite spot&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;#39;s cool to see kids getting excited about code and problem solving at such a young age. Many parents and educators are realizing that programming is the language of the future and kids better start learning &lt;strong&gt;now&lt;/strong&gt;. The &lt;a href=&quot;http://www.nytimes.com/2014/05/11/us/reading-writing-arithmetic-and-lately-coding.html?_r=0&quot;&gt;NYT article&lt;/a&gt; goes on tell just how popular coding programs for kids are becoming. Kids are ditching video games for programs like &lt;a href=&quot;http://turtleacademy.com/&quot;&gt;Turtle Academy&lt;/a&gt; and &lt;a href=&quot;http://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;. &amp;quot;Parents love the idea of giving children something to do with computers that they see as productive.&amp;quot;&lt;/p&gt;
 
-&lt;h2&gt;Overlooking Progress&lt;/h2&gt;
+&lt;h2&gt;The Next Generation&lt;/h2&gt;
 
-&lt;p&gt;The daily grind is taxing and it seems that our cohort is making slow progress. But, when you take a step back and look at the &lt;a href=&quot;https://gist.github.com/natewinn/9912926&quot;&gt;first gist&lt;/a&gt; we posted on GitHub, you can definitely see it. &lt;em&gt;Real, genuine progress&lt;/em&gt;! Don&amp;#39;t get me wrong, in the world of RubyOnRails I&amp;#39;m still an infant crawling around on the floor. But I&amp;#39;m definately not a newborn any longer. &lt;/p&gt;
+&lt;p&gt;Though still just a beginner, I&amp;#39;m looking forward to teaching at &lt;a href=&quot;http://theironyard.com/academy/scratch/&quot;&gt;The Iron Yard Kids Academy&lt;/a&gt; on May 29. It&amp;#39;s going to be fun to spark an interest in future programmers. &lt;/p&gt;
 
-&lt;p&gt;Six weeks ago today, I boarded an airplane to leave my family knowing next to nothing about code. Yesterday, I pushed a web app to a &lt;a href=&quot;https://github.com/natewinn/remember&quot;&gt;GitHub Repo&lt;/a&gt; where users can upload photos and add tags and comments. And, no, I didn&amp;#39;t know what a &amp;quot;GitHub Repo&amp;quot; was 6 weeks ago. Looking back, today, at &amp;quot;half-time,&amp;quot; &lt;em&gt;it is amazing to see the progress&lt;/em&gt;. &lt;/p&gt;
-
-&lt;p&gt;When setting out to achieve a goal, no matter how big or small, I challenge you to take a step back on &lt;strong&gt;milestone days&lt;/strong&gt; and recall the progress you made. Not to pat yourself on the back for the steps that you&amp;#39;ve made, but to motivate you to accomplish even more in the days ahead.&lt;/p&gt;
+&lt;p&gt;If you&amp;#39;re looking for a place to get started with code, for both kids and adults, you&amp;#39;ll find an awesome list of resources &lt;a href=&quot;https://medium.com/global-silicon-valley/a2dc04ea9529&quot;&gt;here&lt;/a&gt;. Jump in and get started today!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>In One Year's Time</title>
-   <link href="http://natewinn.com/2014/04/09/in-one-years-time/"/>
+   <title>Win With Google</title>
+   <link href="http://natewinn.com/2014/05/15/win-with-google/"/>
+   <updated>2014-05-15T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/15/win-with-google</id>
+   <content type="html">&lt;p&gt;Without a doubt, &lt;a href=&quot;https://www.google.com/&quot;&gt;Google&lt;/a&gt; is a newbie coder&amp;#39;s best friend. But, when approaching a new concept don&amp;#39;t head for that search bar just yet! Your first step &lt;em&gt;shouldn&amp;#39;t&lt;/em&gt; be to scour the web when you&amp;#39;re setting out to tackle a new challenge. It&amp;#39;s understandable that a new concept can be overwhelming, and the thought of trying to do something new can be daunting. But, instead of turning to the internet, try to breakdown the new challenge into actionable chunks that you &lt;em&gt;can&lt;/em&gt; complete. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The best way to eat an elephant is one bite at a time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Logically think through what you have to accomplish and figure out the essential steps needed to accomplish those tasks. This happened &lt;strong&gt;today&lt;/strong&gt; when we had to create a jQuery modal by ourselves. It was a daunting task when you see the code for most modals you find online. You see the code and think it &lt;em&gt;has&lt;/em&gt; to be complicated and there&amp;#39;s &lt;em&gt;no way&lt;/em&gt; I can do that. And I fell right into the trap. When we came into class this morning, Shelby asked us to break it down. In reality, a modal can be accomplished as easy as using a javascript .on(&amp;#39;click&amp;#39;) on a .div set to display:none.&lt;/p&gt;
+
+&lt;p&gt;Try it for yourself first . . . even if you &lt;em&gt;know&lt;/em&gt; you&amp;#39;re going to fail. Once, you create your own iteration &lt;a href=&quot;/2014/05/01/the-rubber-duck/&quot;&gt;talk through it&lt;/a&gt;. See if you can spot any errors errors. If not, then you can start searching. Before getting carried away and letting hours upon hours of time pass, here are &lt;strong&gt;six tips&lt;/strong&gt; to finding a solution on Google.&lt;/p&gt;
+
+&lt;h2&gt;Guides First&lt;/h2&gt;
+
+&lt;p&gt;Turn to the docs/guides before you go anywhere else online. I&amp;#39;ve mentioned before just how &lt;a href=&quot;/2014/04/30/read-the-docs/&quot;&gt;valuable&lt;/a&gt; the docs can be. In all honesty, the docs are generally going to be the first thing that comes up with a Google search anyway. So, you might as well start there. You&amp;#39;ll find &lt;em&gt;many&lt;/em&gt; problems can be solved and &lt;em&gt;much&lt;/em&gt; time can be saved by just looking at the docs. &lt;/p&gt;
+
+&lt;h2&gt;Be Specific&lt;/h2&gt;
+
+&lt;p&gt;If you strike out with the docs then jump on Google. Remember, generic searches won&amp;#39;t shed any light on your problem. Take a second to accurately frame your search by &lt;em&gt;describing the problem&lt;/em&gt; and &lt;em&gt;thinking of key search terms&lt;/em&gt;; or else you&amp;#39;ll quickly find yourself endlessly wading through irrelevant information. For example, I was trying to get a conirmation email to be sent to the user following new account creation using the Devise gem. Instead of searching &amp;quot;Devise mail,&amp;quot; I searched &amp;quot;Rails Devise Mailer New Account Confirmation.&amp;quot; As you gain experience and become more familiar with syntax, the specificity of your searches will improve. &lt;/p&gt;
+
+&lt;h2&gt;Tinker with It&lt;/h2&gt;
+
+&lt;p&gt;It&amp;#39;s &lt;em&gt;unlikely&lt;/em&gt; you&amp;#39;re ever going to find an &amp;quot;out of the box&amp;quot; solution for &lt;em&gt;your&lt;/em&gt; problem. So, you&amp;#39;re probably going to have to finesse a similar solution you find online. This could be as simple as changing variables or as complicated as refactoring an entire method. Here are &lt;strong&gt;three tips&lt;/strong&gt; to keep in mind when you start to tinker with a &lt;em&gt;possible&lt;/em&gt; solution you come across . . .&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Keep track of what you&amp;#39;ve tried so you’re not repeating the same thing over and over again.&lt;/li&gt;
+&lt;li&gt; Don’t be afraid to try new stuff! That&amp;#39;s what&amp;#39;s so awesome about coding . . . you can just use backspace if it doesn&amp;#39;t work!&lt;/li&gt;
+&lt;li&gt;Keep your &amp;quot;master branch&amp;quot; isolated. Create a new branch or just have an &amp;quot;experiment&amp;quot; file open in your text editor to try out new stuff.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Try Again&lt;/h2&gt;
+
+&lt;p&gt;If a solution you have found doesn&amp;#39;t work, take a look again and target similar Stack Overflow posts. &lt;a href=&quot;http://stackoverflow.com/&quot;&gt;Stack Overflow&lt;/a&gt; is an awesome resource, but it can be a bit of a black hole if you&amp;#39;re not careful. It&amp;#39;s very easy to waste tons of time trying to track down a solution. Keep in mind, the solutions on Stack Overflow are for very specific questions begin asked. This could be a &lt;em&gt;good&lt;/em&gt; or a &lt;em&gt;bad&lt;/em&gt; thing! Oftentimes, you&amp;#39;ll have to heavily refactor an answer. Regardless if the solution you find is similar or not, don&amp;#39;t copy and paste it directly into your code. First, it&amp;#39;s almost never going to work, and secondly, you&amp;#39;re not going to learn &lt;em&gt;why&lt;/em&gt; it works. Lastly, for the post to help, you &lt;em&gt;must&lt;/em&gt; read both the question and answer in its &lt;strong&gt;entirety&lt;/strong&gt;. It&amp;#39;s going to be tempting to scroll down to that green checkmark, but DON&amp;#39;T DO IT! &lt;/p&gt;
+
+&lt;h2&gt;Trash It&lt;/h2&gt;
+
+&lt;p&gt;The neat thing about coding is there are so many different ways to do the same thing. If your approach just isn&amp;#39;t working, trash it, and start over! Don&amp;#39;t be so attached to your code that you can&amp;#39;t throw it away and start over. By starting with a clean slate, you&amp;#39;ll more than likely create a better solution for tackling your problem than with your first attempt. &lt;/p&gt;
+
+&lt;h2&gt;Find an Expert&lt;/h2&gt;
+
+&lt;p&gt;If you &lt;em&gt;must&lt;/em&gt; do it the way you&amp;#39;re doing it, seek out an expert to help you solve your problem. Get a mentor or maybe post a question on Stack Overflow. Just &lt;em&gt;don&amp;#39;t&lt;/em&gt; spend a crazy amount of time on the same problem. When you do get some expert assistance, don&amp;#39;t copy and paste. Again, look through what you&amp;#39;ve tried previously and &lt;em&gt;see where you went wrong&lt;/em&gt;. Remember, coding is not a single destination; it&amp;#39;s a journey!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Good Advice...</title>
+   <link href="http://natewinn.com/2014/05/15/good-advice/"/>
+   <updated>2014-05-15T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/15/good-advice</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Not what you want to hear, but what you need to hear. Not designed to make you feel better, designed to make you better.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Priceless advice from &lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2014/05/good-advice.html&quot;&gt;Seth Godin&lt;/a&gt;. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Throwing In the Towel</title>
+   <link href="http://natewinn.com/2014/05/13/rail-throwing-in-the-towel/"/>
+   <updated>2014-05-13T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/13/rail-throwing-in-the-towel</id>
+   <content type="html">&lt;p&gt;It&amp;#39;s midnight, and I&amp;#39;m &lt;a href=&quot;http://en.wiktionary.org/wiki/throw_in_the_towel&quot;&gt;throwing in the towel&lt;/a&gt;. Every day at The Iron Yard is difficult, but today was just one of those days. I walked in to ATV around 6:30am. Since then, I have been outside only three times-a Starbucks run, to FaceTime my family, and to grab something to eat. Based on the homework assigned for tonight, I thought my day would be a relatively easy day. &lt;strong&gt;Nope&lt;/strong&gt;. Things didn&amp;#39;t go as expected pretty early on, and my &amp;quot;easy&amp;quot; day was anything but. Since I started to code, I have realized that everything isn&amp;#39;t going to immediately make sense or work the first time I try. As a matter of fact, &lt;em&gt;very few things do&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;A New Day&lt;/h2&gt;
+
+&lt;p&gt;When a boxer&amp;#39;s manager &amp;quot;throws in the towel&amp;quot; on his behalf, he&amp;#39;s not quitting on the sport. Just that particular match. There will be another opponent to face. Tomorrow will be a new day for me, another day to crack open the lid to my MacBook and &lt;em&gt;try even harder&lt;/em&gt;. I&amp;#39;ve come to realize The Iron Yard isn&amp;#39;t just about completing a single task, though collectively those assignments are extremely important. Instead, it is a &lt;em&gt;continual pursuit towards bettering myself as a coder&lt;/em&gt;. And just one assignment isn&amp;#39;t going to accomplish that. I&amp;#39;m not saying that to minimize the daily homework I have, but it&amp;#39;s a good reminder that there will inevitably be days when things &lt;em&gt;just aren&amp;#39;t going to fall into place&lt;/em&gt;. There will be setbacks no matter if you are coding or crocheting. Just remember that &lt;strong&gt;tomorrow&lt;/strong&gt; will be another opportunity to strive toward reaching your goal.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://natewinn.com/2014/05/12/rail-new-blog/"/>
+   <updated>2014-05-12T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/12/rail-new-blog</id>
+   <content type="html">&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;puts Hello World
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Hi, my name is &lt;a href=&quot;http://natewinn.com/colophon/&quot;&gt;Nathan Winn&lt;/a&gt;. You can call me Nate. This is my new home. Welcome.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve wanted to start a blog for a &lt;em&gt;very&lt;/em&gt; long time. I&amp;#39;ve owned this domain for years, but I&amp;#39;ve made excuse after excuse to not get something started. You know, the typical ones. &amp;quot;I don&amp;#39;t have enough time,&amp;quot; &amp;quot;nobody is interested in what I have to say,&amp;quot; and &amp;quot;I&amp;#39;m not talented enough to make the site look good.&amp;quot; &lt;/p&gt;
+
+&lt;p&gt;Recently, I&amp;#39;ve been challenged by both &lt;a href=&quot;/2014/04/08/how-to-win-the-internet/&quot;&gt;John Saddington&lt;/a&gt; and my good friend, &lt;a href=&quot;http://jadlimcaco.com/blog/homeless-designers/&quot;&gt;Jad Limcaco&lt;/a&gt; to create an online presence. So, this past Friday, I determined I would get a blog up and running by &lt;strong&gt;today&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Though this is &lt;em&gt;technically&lt;/em&gt; my first post, I&amp;#39;m sure you&amp;#39;ll notice there&amp;#39;s quite a bit of content already posted. I started writing posts in my text editor since I began my coding journey at &lt;a href=&quot;http://theironyard.com/&quot;&gt;The Iron Yard&lt;/a&gt; knowing that one day, I would finally create a site to post them. &lt;em&gt;That day is today&lt;/em&gt;!&lt;/p&gt;
+
+&lt;p&gt;This blog is rolling on &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Here&amp;#39;s why I chose Jekyll...&lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-12-jekyll-logo.png&quot; alt=&quot;Jekyll Logo&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;h2&gt;Fast Setup&lt;/h2&gt;
+
+&lt;p&gt;No, really. It is super fast to get up and running. If you don&amp;#39;t believe me, check out this &lt;a href=&quot;https://medium.com/web-design-and-development/4d3e24320d47&quot;&gt;tutorial&lt;/a&gt;. You can have it up and running in about 10 minutes without any tweaks to the configuration.&lt;/p&gt;
+
+&lt;h2&gt;Built on Ruby&lt;/h2&gt;
+
+&lt;p&gt;Jekyll is not really a CMS, but a parsing engine bundled as a Ruby gem. It is a static site that is created by dynamic components. Jekyll is known as &amp;quot;a simple, blog aware, static site generator.&amp;quot; It is focused on blogging, but it has been used to create some pretty &lt;a href=&quot;http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/&quot;&gt;epic sites&lt;/a&gt; too. Since I&amp;#39;m currently learning Rails having a &amp;quot;blog&amp;quot; built in Ruby is a perfect fit.&lt;/p&gt;
+
+&lt;h2&gt;Hosted on GitHub Pages&lt;/h2&gt;
+
+&lt;p&gt;After pushing your Jekyll site to GitHub, you can make it viewable on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. Again, super easy and &lt;strong&gt;free&lt;/strong&gt;! You heard right, free. Refer back to the previous &lt;a href=&quot;https://medium.com/web-design-and-development/4d3e24320d47&quot;&gt;tutorial&lt;/a&gt; to see just how easy setup is. You can &lt;em&gt;even&lt;/em&gt; redirect your site on GitHub Pages to your own URL simply by updating your DNS A Record and creating a CNAME file in the root directory that includes the name of the URL you&amp;#39;re pointing to. Did I mention it&amp;#39;s free?&lt;/p&gt;
+
+&lt;h2&gt;Text Editor + GitHub = Winning&lt;/h2&gt;
+
+&lt;p&gt;Jekyll allow me to write content just like I&amp;#39;m coding. I&amp;#39;m taking an immersive approach in learning to code so, &amp;quot;blogging&amp;quot; with Jekyll will become another way I can practice coding and GitHub. It really is a winn-winn. See what I did there?&lt;/p&gt;
+
+&lt;p&gt;I would love to hear what you think! Give me a shout out in the comments or reach out to me on Twitter at &lt;a href=&quot;https://twitter.com/natewinn&quot;&gt;@natewinn&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Halftime</title>
+   <link href="http://natewinn.com/2014/05/10/half-time/"/>
+   <updated>2014-05-10T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/10/half-time</id>
+   <content type="html">&lt;p&gt;My son, Owen, will be 9 months old tomorrow. It&amp;#39;s &lt;em&gt;incredible&lt;/em&gt; how fast the time has gone by! On days like this, I like to look through the pictures my wife and I have taken of him and take just a few moments to reminisce.&lt;/p&gt;
+
+&lt;p&gt;Without fail, I say to my wife, “I can’t believe how much he has grown!” In fact, I &lt;em&gt;always&lt;/em&gt; remind her of the picture I took when she put him in his carseat for the the very first time. His newborn clothes were so big on him, and he nearly disappeared into his carseat.&lt;/p&gt;
+
+&lt;h2&gt;Overlooking Progress&lt;/h2&gt;
+
+&lt;p&gt;It’s so apparent by looking back to his first few days of life to see how much he has grown. He now sleeps through the night, crawls, interacts with us, and climbs on things (Yes, he climbed up there all by himself in that picture below!). My son’s growth or “progress” is so easy to overlook on a daily basis. My progress at The Iron Yard is no different.&lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-10-owen-on-nightstand.jpg&quot; alt=&quot;Owen on the Nightstand&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Owen perched on his favorite spot&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;The daily grind is incredibly taxing, and it seems that our cohort is making slow progress. But, when you take a step back and look at the &lt;a href=&quot;https://gist.github.com/natewinn/9912926&quot;&gt;first gist&lt;/a&gt; we posted on GitHub, you can begin to see it. Real progress! Don’t get me wrong, in the world of RubyOnRails I’m still an infant crawling around on the floor. But I’m definitely not a newborn any longer.&lt;/p&gt;
+
+&lt;p&gt;Six weeks ago today, I boarded an airplane to leave my family, knowing next to nothing about code. Yesterday, I pushed a web app to a &lt;a href=&quot;https://github.com/natewinn/remember&quot;&gt;GitHub Repo&lt;/a&gt; where users can upload photos and add tags or comments. And, no, I didn’t have an idea what a “GitHub Repo” was 6 weeks ago. Looking back, today, at “half-time,” it&amp;#39;s pretty cool to see how far we have come.&lt;/p&gt;
+
+&lt;h2&gt;Motivation&lt;/h2&gt;
+
+&lt;p&gt;When setting out to achieve a goal, no matter how big or small, take a step back on milestone days and recall the progress you&amp;#39;ve made—&lt;em&gt;not to pat yourself on the back&lt;/em&gt; for the steps that you’ve made, but to &lt;em&gt;motivate you to accomplish even more&lt;/em&gt; in the days ahead.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Common Goal</title>
+   <link href="http://natewinn.com/2014/05/03/a-common-goal/"/>
+   <updated>2014-05-03T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/03/a-common-goal</id>
+   <content type="html">&lt;p&gt;Having someone with which to strive toward a common goal will exponentially increase your chances of success. This is exactly why the &lt;a href=&quot;http://john.do/dream-big-dreams/&quot;&gt;cohort model&lt;/a&gt; at The Iron Yard is so awesome. When sailing out into unchartered territory and attempting to achieve something big, it is &lt;em&gt;vital&lt;/em&gt; to have someone you can be accountable to—someone who is able to celebrate each success, yet encourage with every setback. &lt;/p&gt;
+
+&lt;h2&gt;An Equal Challenge&lt;/h2&gt;
+
+&lt;p&gt;When my wife and I finally decided I would attend The Iron Yard, she also wanted to challenge herself. She knew I was facing the most difficult challenges of my life so; she also wanted conquer something equally as challenging—run a marathon. As we have both had our ups and downs in striving to reach our goals, we are able to &lt;em&gt;keep each other motivated&lt;/em&gt; to stay on track to reach our respective goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-03-before-running-marathon.jpg&quot; alt=&quot;Nate and Jo Before the Race&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Before the Big Race&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2&gt;Motivated By Others&lt;/h2&gt;
+
+&lt;p&gt;This weekend, I was able to fly across the country for just a day and a half to see my wife complete the &lt;a href=&quot;http://www.brazenracing.com/westernpacific.html&quot;&gt;Western Pacific Marathon&lt;/a&gt;. It was incredibly motivating to see her cross that finish line. I keep a picture of her wearing the finisher&amp;#39;s medal on my desktop and often look at it during the day. It motivates me to press forward becuase I so often get discouraged.&lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-03-after-run.jpg&quot; alt=&quot;Winn Family After the Race&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;After Crossing the Finish Line&lt;/figcaption&gt;&lt;/figure&gt; &lt;/p&gt;
+
+&lt;p&gt;There have been &lt;em&gt;numerous&lt;/em&gt; times along the way that I&amp;#39;ve really wanted to throw in the towel. It says &lt;strong&gt;intensive&lt;/strong&gt; on The Iron Yard website for good reason! But, I try to remember the &lt;a href=&quot;/2014/04/15/teamwork-makes-the-dream-work/&quot;&gt;people&lt;/a&gt; pulling for me, and I don&amp;#39;t want to let them down. I would encourage you in setting out to achieve something big, take someone along for the ride.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Rubber Duck</title>
+   <link href="http://natewinn.com/2014/05/01/the-rubber-duck/"/>
+   <updated>2014-05-01T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/01/the-rubber-duck</id>
+   <content type="html">&lt;p&gt;Today, &lt;a href=&quot;http://timw.co/&quot;&gt;Tim Whitacre&lt;/a&gt; of &lt;a href=&quot;http://argyllstudios.com/&quot;&gt;Argyll Studios&lt;/a&gt; joined us at The Iron Yard to discuss his experiences as a front-end developer. During his talk, he mentioned &lt;em&gt;duck programming&lt;/em&gt;, a reference to a story in the book, &lt;a href=&quot;http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X&quot;&gt;The Pragmatic Programmer&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-01-rubber-duck.jpg&quot; alt=&quot;Rubber Duck&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;h2&gt;Line-by-line&lt;/h2&gt;
+
+&lt;p&gt;Duck programming is debugging by explaining your code line-by-line to a rubber duck. In other words, describing what the code is &lt;em&gt;supposed to do&lt;/em&gt; and then &lt;em&gt;observing what it actually does&lt;/em&gt;. Tim said that duck programming has enabled him to solve countless problems he has encountered over the years. When stumped, he challenged us to answer the following questions about our code: &lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What is your code actually doing?&lt;/li&gt;
+&lt;li&gt;What do you expect your code to do?&lt;/li&gt;
+&lt;li&gt;What resources have you looked into to fix the problem?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;His advice has already proven to be a help to me. When I&amp;#39;m unable to get past a problem in my code, I step back, go for a walk around the block, and &lt;em&gt;try&lt;/em&gt; to go through my code systematically. It doesn&amp;#39;t always work, but there have been times I&amp;#39;ve fixed minor problems realatively quickly.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Read the Docs</title>
+   <link href="http://natewinn.com/2014/04/30/read-the-docs/"/>
+   <updated>2014-04-30T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/04/30/read-the-docs</id>
+   <content type="html">&lt;p&gt;I&amp;#39;m &lt;em&gt;constantly&lt;/em&gt; having problems with my code or don&amp;#39;t fully understand a concept being covered in class. After wrestling over it for an embarrassing amount of time, I will ask my instructor, &lt;a href=&quot;https://twitter.com/switzerly&quot;&gt;Shelby&lt;/a&gt;, for help. Her standard response is &lt;em&gt;always&lt;/em&gt;, &amp;quot;Did you read the docs?&amp;quot; In other words, did you try reading the &amp;quot;instruction manual&amp;quot; before trying to &amp;quot;assemble&amp;quot; your code. She&amp;#39;s not doing this to be mean, but to teach me to be a &lt;strong&gt;problem solver&lt;/strong&gt;, to step back and understand what is happening at a foundational level instead of just rigging together some code. &lt;/p&gt;
+
+&lt;p&gt;After looking at the &lt;a href=&quot;http://guides.rubyonrails.org/&quot;&gt;Rails Guides&lt;/a&gt;, I noticed the option to download the guides for &lt;a href=&quot;http://www.amazon.com/dp/B00AWH595M/ref=fs_clw&quot;&gt;Kindle&lt;/a&gt;. After looking at a computer screen (literally) all day, the last thing I want to do is read documentation on my computer. So, I sprung for a Kindle during a recent sale. Since loading up Ruby Guides, both the Guides and the Kindle have become an &lt;em&gt;awesome&lt;/em&gt; tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-04-30-kindle-on-the-plane.png&quot; alt=&quot;Ruby Guides on Kindle&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Reading the Ruby Guides on my Flight Home&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2&gt;Readable Documentation&lt;/h2&gt;
+
+&lt;p&gt;The Rails Guides are pretty sweet (Yes, you were right, Shelby!). They are written in a very conversational tone and not typical engineer language. Also, the documentation begins by taking you through a real world example of how to practically implement Rails. You will realize &lt;em&gt;very quickly&lt;/em&gt; the Guides are more than just a step-by-step list of instructions. Instead, Rails Guides will lead you through errors created by each step. The Guides will explain why the error occurs, why Rails is set up that way, and what you can add to eliminate the error. So, you&amp;#39;re not just learning the &lt;em&gt;how&lt;/em&gt;, but the &lt;em&gt;why&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The last time &lt;a href=&quot;http://john.do/&quot;&gt;John&lt;/a&gt; spoke to our cohort about &lt;a href=&quot;/2014/04/28/projects-to-products/&quot;&gt;Taking Projects to Products&lt;/a&gt; he mentioned documentation. When developing &lt;a href=&quot;http://pressgr.am/&quot;&gt;Pressgram&lt;/a&gt; for iOS, John, even as a seasoned software engineer, started reading the iOS docs from the beginning. This was a huge lesson to me. He went on to explain that &lt;em&gt;no one&lt;/em&gt; is above the docs. There&amp;#39;s nothing fancy or cool about the docs, but they work.&lt;/p&gt;
+
+&lt;p&gt;Obviously, the Rails Guides are an incredible reference tool. But, if you&amp;#39;re just starting out, I would encourage you to not go buffet-style and pick and choose from the Guides. Instead, start from the beginning to gain a firm understanding of how Rails works. Honestly, I have just about zero time to right now, but having the Kindle is allowing me to read more consistently.&lt;/p&gt;
+
+&lt;h2&gt;Accessible Documentation&lt;/h2&gt;
+
+&lt;p&gt;Since being at The Iron Yard, I&amp;#39;ve purchased a few reference books that have been a help to me. But, to be honest, I have to &lt;em&gt;purpose&lt;/em&gt; to get them out and read them. They are big, heavy and not really that convenient to carry around. To take them out in a moments notice and read a few pages doesn&amp;#39;t happen very often, which is why I&amp;#39;m loving the Kindle.&lt;/p&gt;
+
+&lt;p&gt;The book, &lt;a href=&quot;http://www.amazon.com/gp/product/B00B3HLOA4/ref=kinw_myk_ro_title&quot;&gt;137 Books in One Year&lt;/a&gt;, is a motivating read. Kevin Hendricks explains how he read 137 books in just one year. The major takeaway is to &lt;em&gt;always have a book on hand&lt;/em&gt; to read at a moments notice. Recapture even the smallest chunks of time to read. This could be while brushing your teeth, cooking something in the microwave, or waiting for your computer to reboot. I take Marta in because it&amp;#39;s super close to &lt;a href=&quot;http://atlantatechvillage.com/&quot;&gt;ATV&lt;/a&gt; so, I do my best to recapture the time waiting for the train and riding on the train by reading.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;#39;t get me wrong...I&amp;#39;m literally getting about 5 hours of sleep a night. But, the small amounts of time I do have I try to recapture.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kindle + Rails Guides = Awesome&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Projects to Products</title>
+   <link href="http://natewinn.com/2014/04/28/projects-to-products/"/>
+   <updated>2014-04-28T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/04/28/projects-to-products</id>
+   <content type="html">&lt;p&gt;John spoke to us today about his latest creation &lt;a href=&quot;http://pressgr.am/&quot;&gt;Pressgram&lt;/a&gt;, an iOS app that allows you to edit, filter, and publish photos to your own blog and site. It was a practical look into turning a &lt;em&gt;project&lt;/em&gt; into a sellable &lt;em&gt;product&lt;/em&gt;. The talk was &lt;strong&gt;epic&lt;/strong&gt; with tons of practical advice from a proven entrepreneur. Here are my top takeaways . . .&lt;/p&gt;
+
+&lt;h2&gt;Innovative solutions are mashups of ineffective solutions&lt;/h2&gt;
+
+&lt;p&gt;There is nothing new under the sun! Innovators that are winning are able to take current ineffective solutions and mash them up to create a winning product. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Complexity is easy to create, but simplicity is art.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Often times, innovative products are nothing more than &lt;em&gt;simplifications&lt;/em&gt;. If you create systems to take complex problems and make them simplistic, you will be on the fast track to creating effective products.&lt;/p&gt;
+
+&lt;h2&gt;You don’t need complex tools to build stuff&lt;/h2&gt;
+
+&lt;p&gt;John demonstrated how he created his first mockups of Pressgram. He used &lt;a href=&quot;http://www.apple.com/mac/keynote/&quot;&gt;Keynote&lt;/a&gt;. Yes, that keynote. His goal was not to create a fancy mockup using the latest tools available, but to create a minimum viable product that could be &lt;em&gt;easily and effectively&lt;/em&gt; communicated to others. Regardless, if the app is meant to function as a slide deck, John used a simple tool he was familiar with to get the job done. The goal is not to be enamored with the latest and greatest tools, but to focus on honing your product with the tools you have.&lt;/p&gt;
+
+&lt;h2&gt;Create emotional attachment by personalizing it&lt;/h2&gt;
+
+&lt;p&gt;At this point in our cohort, we&amp;#39;re creating simplistic apps. But, we were challenged to constantly be thinking about how we can make our assigned projects, &lt;em&gt;our products&lt;/em&gt;. The key in creating a winning product is having an emotional attachment to it, creating something that you &lt;em&gt;really&lt;/em&gt; want. This is exactly what a start-up at Atlanta Tech Village did. Co-founders &lt;a href=&quot;https://vergilis.co/stanley/&quot;&gt;Stanley Vergilis&lt;/a&gt; wanted a way to book tutoring students and &lt;a href=&quot;https://vergilis.co/james/&quot;&gt;James Loper&lt;/a&gt; a better way to fix iPhone screens than his Craigslist post. So, they created &lt;a href=&quot;https://vergilis.co/&quot;&gt;Vergilis&lt;/a&gt;. The key, they created something they &lt;em&gt;wanted&lt;/em&gt;. Do this and passion will be inevitable.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Going Further, Faster</title>
+   <link href="http://natewinn.com/2014/04/21/going-further-faster/"/>
+   <updated>2014-04-21T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/04/21/going-further-faster</id>
+   <content type="html">&lt;p&gt;I think John summed it up well in his recent blog &lt;a href=&quot;http://john.do/dream-big-dreams/&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;But, perhaps, most importantly is that fact that this [cohort] model enables the individual to go further, faster. They can build momentum like there’s no tomorrow, and they realize that they were far more capable than they ever dared to hope and believe.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Up and Running&lt;/h2&gt;
+
+&lt;p&gt;We put this into practice today as we ventured into our first day of RubyOnRails. My fellow Rubyist and I realized that we could go &lt;em&gt;further&lt;/em&gt;, &lt;em&gt;faster&lt;/em&gt; by working together. And, we did! By collaborating, we were able to work together to get our first Ruby install up and running much faster than we would have on our own!&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Walked in after lunch to find my students discussing workflows for MVC apps all on their own &lt;a href=&quot;https://twitter.com/TheIronYard&quot;&gt;@TheIronYard&lt;/a&gt; &lt;a href=&quot;http://t.co/0Wf56fOOqX&quot;&gt;pic.twitter.com/0Wf56fOOqX&lt;/a&gt;&lt;/p&gt;&amp;mdash; Shelby Switzer (@switzerly) &lt;a href=&quot;https://twitter.com/switzerly/statuses/458318144445382656&quot;&gt;April 21, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Teamwork Makes the Dream Work</title>
+   <link href="http://natewinn.com/2014/04/15/teamwork-makes-the-dream-work/"/>
+   <updated>2014-04-15T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/04/15/teamwork-makes-the-dream-work</id>
+   <content type="html">&lt;p&gt;In my past positions, when undertaking a project I gathered a team, sometimes volunteers and sometimes paid, and figured how we would get the job done. Being a part of a team has allowed me to see some &lt;em&gt;incredible&lt;/em&gt; things accomplished. Without question, the &amp;quot;task&amp;quot; was &lt;em&gt;always&lt;/em&gt; completed far better with the help of my team than I could have done myself. Though my experiences at The Iron Yard are largely a personal challenge, I realize that &lt;strong&gt;no man is an island unto himself&lt;/strong&gt;. Here&amp;#39;s &amp;quot;my team&amp;quot; that has already helped me immensely.&lt;/p&gt;
+
+&lt;h2&gt;Cheerleaders&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;#39;t care who you are, having a cheerleader that is pulling for you will push you to achieve more &lt;em&gt;than you ever thought possible&lt;/em&gt;. My cheerleaders are my family. We heard (pun intended) a lot about &lt;a href=&quot;http://nfl.si.com/2014/01/15/seattle-seahawks-centurylink-field-noise/&quot;&gt;CenturyLink Field&lt;/a&gt; this past football season—how the record-breaking decibel-level of fans helped the Seahawks win the Super Bowl. The fans had a part in the Seahawks success. When setting out to accomplish something new, there are times of discouragement, disbelief, and defeat. The Facetime chats from my wife and son, emails from my parents and in-laws, and texts from my extended family encourage me along the way. You need someone to believe in you and remind you that you &lt;em&gt;can do it&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;A Veteran&lt;/h2&gt;
+
+&lt;p&gt;A mentor is an experienced or trusted advisor. Mine is &lt;a href=&quot;http://www.linkedin.com/in/galanbridgman&quot;&gt;Galan Bridgman&lt;/a&gt;. We have been friends for years, and though he doesn&amp;#39;t know Ruby or Rails specifically, he&amp;#39;s been been coding for well over twenty years. He know&amp;#39;s what it is like to learn code and, more importantly, to learn to &lt;em&gt;think like a programmer&lt;/em&gt;. He has made himself available to offer practical advice that has been applicable to every programming language. He often looks at my code and offers suggestions of how to make things &lt;a href=&quot;http://en.wikipedia.org/wiki/Don&amp;#x27;t_repeat_yourself&quot;&gt;DRY&lt;/a&gt;, fix typos, and reminds me of validations that I overlooked. Find an advisor who has been there, done that and can offer practical advice to overcome hurdles they too faced.&lt;/p&gt;
+
+&lt;h2&gt;A Coach&lt;/h2&gt;
+
+&lt;p&gt;Find someone who knows their stuff and can help you learn it. The leader of our cohort at The Iron Yard is &lt;a href=&quot;http://shelbyswitzer.com/&quot;&gt;Shelby Switzer&lt;/a&gt;. Though I committed to attend The Iron Yard before I knew Shelby would be my teacher, I was excited to learn she would be the one teaching. &lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;I am still pretty starstruck that I got &lt;a href=&quot;https://twitter.com/switzerly&quot;&gt;@switzerly&lt;/a&gt; to teach Ruby at &lt;a href=&quot;https://twitter.com/TheIronYard&quot;&gt;@TheIronYard&lt;/a&gt;. Lucky us and lucky students! She&amp;#39;s a joy to work with.&lt;/p&gt;&amp;mdash; Mason Stewart (@masondesu) &lt;a href=&quot;https://twitter.com/masondesu/statuses/455122730921508864&quot;&gt;April 12, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Why? She&amp;#39;s a self-taught Rubyist that has only been coding for a short time. She relates to us learning &amp;quot;late.&amp;quot; Because of this, she draws from her own experiences and knows how much we are capable of, pushing us accordingly. In addition, she taught English as a second-language to children in Nepal which is so important because programming is a language.&lt;/p&gt;
+
+&lt;h2&gt;Teammates&lt;/h2&gt;
+
+&lt;p&gt;Your &amp;quot;teammates&amp;quot; are those who have set out to accomplish the same exact thing as you. My teammates are those who are a part of the spring &lt;a href=&quot;http://theironyard.com/academy/rails-engineering/&quot;&gt;Rails cohort&lt;/a&gt; at The Iron Yard. We are in it together, day in and day out. We learn together, work together, and laugh together (which is essential, &lt;em&gt;trust me&lt;/em&gt;). We all live on HipChat, where we can send out a call for help or post some memes for comic relief. There are times when you can lift up a fellow teammate teammates and others are accessible to help you understand what they too struggled with. &lt;/p&gt;
+
+&lt;p&gt;No matter what you set out to accomplish, there is always value in building a team that, in turn, can help build you up. Setting out to achieve something great? &lt;em&gt;Build a great team&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Making a List, Checking It Twice</title>
+   <link href="http://natewinn.com/2014/04/14/making-a-list-checking-it-twice/"/>
+   <updated>2014-04-14T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/04/14/making-a-list-checking-it-twice</id>
+   <content type="html">&lt;p&gt;In 2007, Atul Gawande, general surgeon at Brigham and Women&amp;#39;s Hospital in Boston, Massachusetts and associate professor at the Harvard School of Public Health, wrote an article for the New Yorker entitled &lt;a href=&quot;http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande?currentPage=all&quot;&gt;The Checklist&lt;/a&gt;. This article later developed into a New York Times Bestseller, &lt;a href=&quot;http://www.amazon.com/The-Checklist-Manifesto-Things-Right/dp/0312430000&quot;&gt;The Checklist Manifesto&lt;/a&gt;. The book’s main point is simple: no matter how expert you may be, well-designed checklists can improve outcomes. In fact, &lt;a href=&quot;https://twitter.com/jack&quot;&gt;Jack Dorsey&lt;/a&gt;, co-founder of Twitter and founder of Square, gives a copy of this &lt;a href=&quot;http://www.sfgate.com/technology/businessinsider/article/Jack-Dorsey-Gives-Everyone-He-Hires-The-Same-Red-3909392.php&quot;&gt;book&lt;/a&gt; to everyone hired at Square.&lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-04-14-checklist-manifesto.png&quot; alt=&quot;Square Welcome Packet&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Box Given to New Hires at Square&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;I read the book several years ago but was reminded of it as we dug into Sinatra this week. &lt;a href=&quot;http://www.sinatrarb.com/&quot;&gt;Sinatra&lt;/a&gt; is a Ruby framework similar to RubyOnRails, but more lightweight. To be quite honest, I did &lt;em&gt;horribly&lt;/em&gt; on the assignment the first day we covered into Sinatra. I struggled to keep up in class which made the assignment tremendously difficult to complete. In fact, I didn&amp;#39;t finish it. Our assignment was to create a web app that met the following requirements . . .&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;List of favorite things&lt;/li&gt;
+&lt;li&gt;Be able to match input against certain criteria &lt;/li&gt;
+&lt;li&gt;Create at 3 pages (error page, index page, and form)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Checklist . . . Check&lt;/h2&gt;
+
+&lt;p&gt;Day two of Sinatra, I created a checklist. A simple list that outlined every step I needed to take to get a basic Sinatra &lt;a href=&quot;http://en.wikipedia.org/wiki/Create,_read,_update_and_delete&quot;&gt;CRUD&lt;/a&gt; app up and running. The checklist helped me immensely! With as fast as we are moving, I realized there is no possible way I&amp;#39;m going to remember every step. If a world-class surgeon can rely on a checklist to ensure his procedure goes according to plan, I&amp;#39;m pretty sure a newbie coder could use one too. &lt;/p&gt;
+
+&lt;p&gt;If you&amp;#39;re learning a new skill or technique, I would encourage you to create a checklist to act as a guide. Practice doesn&amp;#39;t make perfect; practice makes permanent. Don&amp;#39;t view a checklist as a crutch, especially when you&amp;#39;re first starting out. View it as a tool to ensure you are learning a new skill correctly.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>One Year's Time</title>
+   <link href="http://natewinn.com/2014/04/09/one-years-time/"/>
    <updated>2014-04-09T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/09/in-one-years-time</id>
-   <content type="html">&lt;p&gt;Exactly one year ago today, I created an account at &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; and began to fill out an applicaiton in hopes to join an upcoming cohort. But, that very same night, I began to reason to myself why I would never be able to attend. &lt;/p&gt;
+   <id>http://natewinn.com/2014/04/09/one-years-time</id>
+   <content type="html">&lt;p&gt;Exactly one year ago today, I created an account at &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; and began filling out an application in hopes of joining an upcoming cohort. But that very same night, I began to reason with myself why I would never be able to attend.&lt;/p&gt;
 
 &lt;h2&gt;Excuses, Excuses&lt;/h2&gt;
 
-&lt;p&gt;Of course, I had &lt;em&gt;plenty of excuses&lt;/em&gt;. In just three months, my wife and I were expecting our first child, I had no where near the money I needed for entry, and then there was the small detail of supporting my family without any income for three months! My aspirations of attending a coding bootcamp became a distant memory. I was twenty-nine years-old and accepted the fact that my time to do work that truly excited me had past. I came to accept it.&lt;/p&gt;
+&lt;p&gt;Of course, I had plenty of excuses. In just three months, my wife and I were expecting our first child, I had no where near the money I needed for entry, and then there was the small detail of supporting my family without any income for three months! My aspirations of attending a coding bootcamp became a distant memory. I was twenty-nine years-old and accepted the fact that my time to do work that truly excited me had past. I came to accept it.&lt;/p&gt;
 
 &lt;p&gt;Shortly after the first of the year, I was casually browsing through Twitter and noticed &lt;a href=&quot;http://john.do/&quot;&gt;John Saddington&lt;/a&gt;, whom I have been following for years, mention &lt;a href=&quot;http://theironyard.com/&quot;&gt;The Iron Yard&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I quickly googled &amp;quot;The Iron Yard&amp;quot;  and my curiousity was instantly peaked. I immediately emailed John, and it just so happened that he was going to be in San Francisco the very next day to speak at a conference. &lt;/p&gt;
+&lt;p&gt;I quickly googled “The Iron Yard,” and my curiosity was instantly peaked. I immediately emailed John, and it just so happened that he was going to be in San Francisco (only a 30 minute drive from my home) the very next day to speak at a conference. &lt;/p&gt;
 
 &lt;h2&gt;My Year&lt;/h2&gt;
 
-&lt;p&gt;While grabbing sushi that very next evening, John told me just a handful of the amazing stories of people in similar situations that had attended The Iron Yard. In just a 3-month period of time, people were completely changing the course of their life. Just before I hopped into my car to drive home from the city that evening, John tweeted this . . .&lt;/p&gt;
+&lt;p&gt;While grabbing sushi together that next evening, John told me just a handful of the amazing stories of people in my similar situation that had attended The Iron Yard. In just a 3-month period of time, people were completely changing the course of their lives. Just before I hopped into my car to drive home from the city that evening, John tweeted this...&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Make this the year. Don’t let it go to waste.&lt;/p&gt;&amp;mdash; John Saddington (@saddington) &lt;a href=&quot;https://twitter.com/saddington/statuses/428403179722506240&quot;&gt;January 29, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img&gt;&lt;p align=&quot;center&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Make this the year. Don’t let it go to waste.&lt;/p&gt;&amp;mdash; John Saddington (@saddington) &lt;a href=&quot;https://twitter.com/saddington/statuses/428403179722506240&quot;&gt;January 29, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;&lt;/img&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;That night, I decided this was going to be my year! Today, exactly one year from the day I registered at Dev Bootcamp, I’m writing this post from inside &lt;a href=&quot;http://atlantatechvillage.com/&quot;&gt;Atlanta Tech Village&lt;/a&gt;. Though only one week into the Rails dev cohort, I’ve already been challenged, stretched, and pushed more in this short period than I ever have in my entire life!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Win the Internet</title>
+   <link href="http://natewinn.com/2014/04/08/how-to-win-the-internet/"/>
+   <updated>2014-04-08T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/04/08/how-to-win-the-internet</id>
+   <content type="html">&lt;p&gt;Today, &lt;a href=&quot;https://twitter.com/saddington&quot;&gt;John Saddington&lt;/a&gt;, partner at The Iron Yard, stopped by to chat with the Ruby and iOS cohorts about &lt;em&gt;Winning the Internet&lt;/em&gt;. His challenge to us was simple. &lt;strong&gt;Be in control of our brand online&lt;/strong&gt;. Each of us have the power to curate what people find when Googling our name. &lt;/p&gt;
 
-&lt;p&gt;That night, I decided this &lt;em&gt;was going to be my year&lt;/em&gt;! Last Sunday, I moved sight unseen across the country from the Silicon Valley to Atlanta to become a coder. Today, exactly one year from the day I registered at Dev Bootcamp, I&amp;#39;m writing this post from inside &lt;a href=&quot;http://atlantatechvillage.com/&quot;&gt;Atlanta Tech Village&lt;/a&gt;, the amazing facility where The Iron Yard - Atlanta is located. Though only one-week into the Rails dev cohort, I&amp;#39;ve already been challenged, stretched, and pushed more in this short period than I ever have in my entire life. It has been an amazing ride so far and I can&amp;#39;t wait to see what lies in store. &lt;/p&gt;
+&lt;h2&gt;Still Learning&lt;/h2&gt;
+
+&lt;p&gt;Because competition has become so fierce in the marketplace, you must show others why you are different, what sets you a part from the pack. The goal is not to show others that you are an expert, but to show others &lt;em&gt;your constant pursuit in becoming an expert&lt;/em&gt;. This is precisely the reason I entitled this blog, &amp;quot;Still Learning.&amp;quot; The more I learn, the more I realize how much more I have to learn.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;There are people that do and there are people that dream.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To &lt;em&gt;Win the Internet&lt;/em&gt;, John challenged us with four practical thoughts about how we can make ourselves stand out in a crowd.&lt;/p&gt;
+
+&lt;h2&gt;Capture a thought and tell others.&lt;/h2&gt;
+
+&lt;p&gt;Take one specific thing and show people that you understand it. Then, take that &lt;strong&gt;a step further&lt;/strong&gt;. Prove you are able to take what you&amp;#39;ve learned and help others understand it. It is easy to comprehend a topic for yourself, but to be able to transfer that knowledge in a &lt;em&gt;clear, relatable message&lt;/em&gt; to someone else is invaluable.&lt;/p&gt;
+
+&lt;h2&gt;Don’t be afraid to be unique.&lt;/h2&gt;
+
+&lt;p&gt;Being unique is what sets you apart from the pack. Having an opinion and telling others how you really feel is important! Apple has become an industry leader with &lt;a href=&quot;http://www.thecrazyones.it/spot-en.html&quot;&gt;Think Different&lt;/a&gt;. Their entire company culture is built around challenging the status quo. Companies are looking for people who *care, and having an opinion proves you are passionate about whatever you undertake.&lt;/p&gt;
+
+&lt;h2&gt;Talk about how your are improving.&lt;/h2&gt;
+
+&lt;p&gt;Show others that you are a &lt;em&gt;lifelong learner&lt;/em&gt;. When put in the proper perspective, every experience has the opportunity to be a teachable moment. This shows others that you are not interested in just existing, but consistently striving to improve yourself and others around you. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Everyone that you meet knows something you don&amp;#39;t.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No one likes working with a know it all! And by telling others what you are attempting to learn, you prove to others you &lt;em&gt;have not arrived&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Prove you can be an ambassador&lt;/h2&gt;
+
+&lt;p&gt;Effective communication is arguably the most valued asset to a company. By having a message online, you are effectively an ambassador for yourself. By communicating the value of your own personal brand, you are proving &lt;em&gt;ahead of time&lt;/em&gt; that you can transfer that to whatever company you work for.&lt;/p&gt;
+
+&lt;p&gt;I was challenged to tailor the images and content that returned when people search for me online. I want people to be wowed when googling &amp;quot;Nate Winn.&amp;quot; How are you winning the internet?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On Your Mark, Get Set, Go</title>
+   <link href="http://natewinn.com/2014/03/30/on-your-marks-get-set-go/"/>
+   <updated>2014-03-30T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/03/30/on-your-marks-get-set-go</id>
+   <content type="html">&lt;p&gt;Day one of The Iron Yard has come to an end. After some preliminary announcements and a quick tour of the awesome &lt;a href=&quot;http://atlantatechvillage.com/&quot;&gt;Atlanta Tech Village&lt;/a&gt;, we hit the ground running. Actually, it was more like &lt;em&gt;sprinting&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Rolling with Ruby&lt;/h2&gt;
+
+&lt;p&gt;We quickly got our MacBooks on the same page using &lt;a href=&quot;http://installrails.com/&quot;&gt;InstallRails.com&lt;/a&gt;. I found this site when I completed &lt;a href=&quot;http://onemonthrails.com/signup?discount_code=EGkdkT&quot;&gt;One Month Rails&lt;/a&gt; before coming to The Iron Yard. InstallRails will quickly guide you through the process of installing all the tools you need to get RubyOnRails up and running on a Mac, PC, or Linux install. I would &lt;em&gt;highly recommend&lt;/em&gt; it if you&amp;#39;re not quite sure what you need to get Rails up and running. We spent the remaining class time covering arrays and I was pretty much lost...&lt;/p&gt;
+
+&lt;h2&gt;Guess Who?&lt;/h2&gt;
+
+&lt;p&gt;Our first assignment was to create a guessing game in Ruby that runs in the terminal with the following requirements:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Array of options&lt;/li&gt;
+&lt;li&gt;Randomly select option for user to guess&lt;/li&gt;
+&lt;li&gt;Give hints to user&lt;/li&gt;
+&lt;li&gt;Do not define your own methods or classes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Finally!&lt;/h2&gt;
+
+&lt;p&gt;It&amp;#39;s just after 12:00am, and I &lt;em&gt;just&lt;/em&gt; got my app to work! Check out the &lt;a href=&quot;https://gist.github.com/natewinn/9912926&quot;&gt;gist&lt;/a&gt; on GitHub. To be completely honest, I&amp;#39;m not quite sure how in the world I got this to work. If this is what every day will be like, I&amp;#39;m in for a &lt;em&gt;wild ride&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Journey Begins</title>
+   <link href="http://natewinn.com/2014/03/29/the-journey-begins/"/>
+   <updated>2014-03-29T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/03/29/the-journey-begins</id>
+   <content type="html">&lt;p&gt;When venturing out to accomplish something new there is always an equal amount of &lt;strong&gt;excitement&lt;/strong&gt; and &lt;strong&gt;fear&lt;/strong&gt;. And that&amp;#39;s exactly the feeling I have as I sit here on Southwest Flight #WN564. &lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-03-29-the-journey-begins.jpg&quot; alt=&quot;Online in an Airplane&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Flying to the ATL for The Iron Yard&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Just a few hours ago, I left everything familiar to me—my family, home, and job to travel &lt;em&gt;sight unseen&lt;/em&gt; to Atlanta, Georgia to attend &lt;a href=&quot;http://theironyard.com/&quot;&gt;The Iron Yard&lt;/a&gt;. As I fly across the country, I can&amp;#39;t help but contemplate what lies in store for the next 12 weeks. I&amp;#39;m genuinely looking forward to blogging about my journey to becoming a coder. &lt;/p&gt;
+
+&lt;h2&gt;A Helping Hand&lt;/h2&gt;
+
+&lt;p&gt;My decision to attend a coding bootcamp was heavily influenced by others who have already taken the leap of faith to attend a bootcamp, especially, &lt;a href=&quot;http://www.colorturtle.com/&quot;&gt;Daniel Donaldson&lt;/a&gt;. Daniel went out of his way to transparently answer practical questions I had. Just by him blogging about his experiences and the obstacles he overcame to attend, I was &lt;em&gt;challenged to do the same&lt;/em&gt;. Hopefully, my experiences will be a challenge and motivation to others who are struggling with the same decision I faced.&lt;/p&gt;
 </content>
  </entry>
  
