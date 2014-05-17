@@ -6,6 +6,8 @@ comments: true
 
 Screen sharing for computers isn’t something revolutionary. It's been around for years. Mac users will remember the days of iChat with AIM to enable video chat and screen sharing. But, you were limited to sharing with just fellow mac users — not to mention it was pretty temperamental, especially if you didn't have the right ports open on your router. Skype solved the cross-platform problem, but until recently you needed a premium account to access screen sharing. Even though screen sharing is available for all accounts, I find Skype's quality lacking and interface unnecessarily complicated. *But, fear not*! There’s a new tool that saves the day. 
 
+<img>![Screenhero Logo]({{ natewinn.com }}/assets/2014-05-17-screenhero-logo.png)</img>
+
 ## It’s a bird, it’s a plane . . .
 For incredibly simple, yet incredibly awesome screen sharing look no further than [Screenhero](http://screenhero.com/). Don't let the beta tag on the website scare you away. Though still in beta, Screenhero is *way* better than any screen sharing solution available. The folks over at Screenhero have labeled their product "Google Docs for any application on your computer." **And it's true**! You can seamlessly collaborate with colleagues using any software on your computer. Getting started is as easy as downloading, installing, adding a contact, and clicking "share" in your menubar. 
 
@@ -30,4 +32,4 @@ The possibilities are endless! And it's not just a great tool for collaboration,
 
 Screenhero has become an *invaluable tool* among our cohort at The Iron Yard - to get emergency assistant from our instructor, Shelby, collaborate on group assignments, or lend each other a hand.
 
-All this for the low, low price of . . . **free**. *Go get it now*!
+All this for the low, low price of . . . **free**. Go get it [now](http://screenhero.com/download.html).

@@ -4,7 +4,7 @@
  <title>Nate Winn</title>
  <link href="http://natewinn.com/atom.xml" rel="self"/>
  <link href="http://natewinn.com/"/>
- <updated>2014-05-16T08:29:56-04:00</updated>
+ <updated>2014-05-17T12:45:38-04:00</updated>
  <id>http://natewinn.com</id>
  <author>
    <name>Nate Winn</name>
@@ -13,10 +13,53 @@
 
  
  <entry>
+   <title>Screenhero to the Rescue</title>
+   <link href="http://natewinn.com/2014/05/17/screenhero-to-the-rescue/"/>
+   <updated>2014-05-17T00:00:00-04:00</updated>
+   <id>http://natewinn.com/2014/05/17/screenhero-to-the-rescue</id>
+   <content type="html">&lt;p&gt;Screen sharing for computers isn’t something revolutionary. It&amp;#39;s been around for years. Mac users will remember the days of iChat with AIM to enable video chat and screen sharing. But, you were limited to sharing with just fellow mac users — not to mention it was pretty temperamental, especially if you didn&amp;#39;t have the right ports open on your router. Skype solved the cross-platform problem, but until recently you needed a premium account to access screen sharing. Even though screen sharing is available for all accounts, I find Skype&amp;#39;s quality lacking and interface unnecessarily complicated. &lt;em&gt;But, fear not&lt;/em&gt;! There’s a new tool that saves the day. &lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-17-screenhero-logo.png&quot; alt=&quot;Screenhero Logo&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;h2&gt;It’s a bird, it’s a plane . . .&lt;/h2&gt;
+
+&lt;p&gt;For incredibly simple, yet incredibly awesome screen sharing look no further than &lt;a href=&quot;http://screenhero.com/&quot;&gt;Screenhero&lt;/a&gt;. Don&amp;#39;t let the beta tag on the website scare you away. Though still in beta, Screenhero is &lt;em&gt;way&lt;/em&gt; better than any screen sharing solution available. The folks over at Screenhero have labeled their product &amp;quot;Google Docs for any application on your computer.&amp;quot; &lt;strong&gt;And it&amp;#39;s true&lt;/strong&gt;! You can seamlessly collaborate with colleagues using any software on your computer. Getting started is as easy as downloading, installing, adding a contact, and clicking &amp;quot;share&amp;quot; in your menubar. &lt;/p&gt;
+
+&lt;p&gt;Screenhero has all the basics covered - bundled voice chat, cross platform support, great video and audio quality, and a minimalistic design. But, they have taken it a step further with &lt;em&gt;some amazing features&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Multiple mouse cursers&lt;/h2&gt;
+
+&lt;p&gt;Each user can &lt;em&gt;independently&lt;/em&gt; control his own mouse curser on the screen. You can clearly see which curser belongs to each user with a convenient name label.&lt;/p&gt;
+
+&lt;h2&gt;Remote copy and paste&lt;/h2&gt;
+
+&lt;p&gt;Wanting to copy and paste while on sharing someone else&amp;#39;s desktop? &lt;strong&gt;No problem&lt;/strong&gt;! Using copy and paste will copy to your local clipboard. &lt;em&gt;It&amp;#39;s like magic&lt;/em&gt;! The awesome part is using copy function will not affect the clipboard of the person&amp;#39;s screen you are on. &lt;/p&gt;
+
+&lt;h2&gt;Switch screens&lt;/h2&gt;
+
+&lt;p&gt;With just the click of a button, you can switch your screen and the screen of the user you are connected with. True collaboration! It&amp;#39;s even more convenient than sitting next to the person you are working with because you can work on each other’s computer &lt;em&gt;at the same time&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Voice chat&lt;/h2&gt;
+
+&lt;p&gt;No need to share your screen to chat. Quickly voice chat without revealing your screen. Boasting crisp, 48kHz audio with echo cancellation, Screenhero is an easy way to connect with anyone on your contact list.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;#39;t quite realize how awesome Screenhero was until completing a group assignment just a few weeks ago. My partner and I completed much of a Sinatra app while working together remotely with Screenhero. We were both able to code the app on a single screen. &lt;strong&gt;Crazy right&lt;/strong&gt;? We also switched back and forth between our desktops as we completed different parts of the app. &lt;/p&gt;
+
+&lt;h2&gt;But wait there&amp;#39;s more!&lt;/h2&gt;
+
+&lt;p&gt;The possibilities are endless! And it&amp;#39;s not just a great tool for collaboration, but for troubleshooting as well. It&amp;#39;s the perfect app to help a family member with a nagging computer problem. No need to wait for Thanksgiving dinner to help Uncle Ed get his computer squared away. &lt;/p&gt;
+
+&lt;p&gt;Screenhero has become an &lt;em&gt;invaluable tool&lt;/em&gt; among our cohort at The Iron Yard - to get emergency assistant from our instructor, Shelby, collaborate on group assignments, or lend each other a hand.&lt;/p&gt;
+
+&lt;p&gt;All this for the low, low price of . . . &lt;strong&gt;free&lt;/strong&gt;. Go get it &lt;a href=&quot;http://screenhero.com/download.html&quot;&gt;now&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>The Language of the Future</title>
-   <link href="http://natewinn.com/2014/05/16/the-language-of-the-future/"/>
+   <link href="http://natewinn.com/2014/05/16/the-language-of-the-future+copy/"/>
    <updated>2014-05-16T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/16/the-language-of-the-future</id>
+   <id>http://natewinn.com/2014/05/16/the-language-of-the-future copy</id>
    <content type="html">&lt;p&gt;Though I&amp;#39;m 30-years-old and just now diving into coding, I realize there is no better time to learn than &lt;strong&gt;now&lt;/strong&gt;. It&amp;#39;s never &lt;em&gt;too late&lt;/em&gt; to start learning. The landscape is changing so fast that &lt;em&gt;everyone&lt;/em&gt; has to be continually learning the latest technologies. So, there&amp;#39;s always a good spot to jump in. Don&amp;#39;t let a late start discourage you from getting started! There&amp;#39;s no better day than &lt;strong&gt;today&lt;/strong&gt; to start learning.&lt;/p&gt;
 
 &lt;p&gt;Starbucks is my usual Sunday morning spot. I get there early to work on my weekend homework. This past Sunday, the New York Times caught my eye on the way in. This was on the front page:&lt;/p&gt;
