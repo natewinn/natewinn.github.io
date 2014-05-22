@@ -4,7 +4,7 @@
  <title>Nate Winn</title>
  <link href="http://natewinn.com/atom.xml" rel="self"/>
  <link href="http://natewinn.com/"/>
- <updated>2014-05-21T00:44:50-04:00</updated>
+ <updated>2014-05-22T12:28:14-04:00</updated>
  <id>http://natewinn.com</id>
  <author>
    <name>Nate Winn</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>Effort > Talent</title>
-   <link href="http://natewinn.com/2014/05/20/effort-is-greater-than-talent/"/>
-   <updated>2014-05-20T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/20/effort-is-greater-than-talent</id>
-   <content type="html">&lt;p&gt;37 Signals, now simply known as &lt;a href=&quot;https://basecamp.com/&quot;&gt;Basecamp&lt;/a&gt;, has some pretty incrdible stories of the great lengths potential candidates have gone to stand out from the crowd during their hiring process. They have hired based on unbelievable &lt;a href=&quot;http://signalvnoise.com/posts/2068-pratik-naik-joins-37signals&quot;&gt;open sources contributions&lt;/a&gt;, creating &lt;a href=&quot;http://signalvnoise.com/posts/2709-sites-that-landed-jobs-at-37signals&quot;&gt;job application sites&lt;/a&gt;, and even jumping through &lt;a href=&quot;http://signalvnoise.com/posts/1726-the-newest-signal-jason-zimdars-designer&quot;&gt;some crazy hoops&lt;/a&gt; during the interview process. This is despite their generic job postings. Here&amp;#39;s their latest. . .&lt;/p&gt;
+   <title>Coding Cohort</title>
+   <link href="http://natewinn.com/coding-cohort.html"/>
+   <updated>2014-05-21T00:00:00-04:00</updated>
+   <id>http://natewinn.com/coding-cohort</id>
+   <content type="html">&lt;p&gt;37 Signals, now simply known as &lt;a href=&quot;https://basecamp.com/&quot;&gt;Basecamp&lt;/a&gt;, has some pretty incrdible stories of the great lengths potential candidates have gone to stand out from other applicants. They have hired based on unbelievable &lt;a href=&quot;http://signalvnoise.com/posts/2068-pratik-naik-joins-37signals&quot;&gt;open sources contributions&lt;/a&gt;, creating &lt;a href=&quot;http://signalvnoise.com/posts/2709-sites-that-landed-jobs-at-37signals&quot;&gt;job application sites&lt;/a&gt;, and even jumping through &lt;a href=&quot;http://signalvnoise.com/posts/1726-the-newest-signal-jason-zimdars-designer&quot;&gt;some crazy hoops&lt;/a&gt; during the interview process. This is despite their generic job postings. Here&amp;#39;s their latest. . .&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Send relevant work samples, and anything else that will make you stand out, to jason@basecamp.com. Extra effort and personal touches will be looked upon favorably.&lt;/p&gt;
@@ -25,15 +25,32 @@
 
 &lt;p&gt;The purpose is to evaluate one metric. &lt;em&gt;&amp;quot;It&amp;#39;s effort&amp;quot;&lt;/em&gt;, says co-founder Jason Fried. &amp;quot;I hire people on the &lt;em&gt;basis of the effort they put into getting the job&lt;/em&gt;. We don&amp;#39;t define effort; we just ask for it.&amp;quot; Fried goes on to say that effort is rare and talent is overrated in his recent post, &lt;a href=&quot;http://www.inc.com/magazine/201405/jason-fried/hiring-based-on-effort-not-resumes.html&quot;&gt;The One Trait That Guarantees a Good Hire&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;Though effort can&amp;#39;t be taught or included on your resume, harness it and you will stick crowd.&lt;/p&gt;
+&lt;p&gt;Though effort can&amp;#39;t be taught or included on your resume, harness it and you are sure to stand out in the crowd.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Effort > Talent</title>
+   <link href="http://natewinn.com/effort-is-greater-than-talent.html"/>
+   <updated>2014-05-20T00:00:00-04:00</updated>
+   <id>http://natewinn.com/effort-is-greater-than-talent</id>
+   <content type="html">&lt;p&gt;37 Signals, now simply known as &lt;a href=&quot;https://basecamp.com/&quot;&gt;Basecamp&lt;/a&gt;, has some pretty incrdible stories of the great lengths potential candidates have gone to stand out from other applicants. They have hired based on unbelievable &lt;a href=&quot;http://signalvnoise.com/posts/2068-pratik-naik-joins-37signals&quot;&gt;open sources contributions&lt;/a&gt;, creating &lt;a href=&quot;http://signalvnoise.com/posts/2709-sites-that-landed-jobs-at-37signals&quot;&gt;job application sites&lt;/a&gt;, and even jumping through &lt;a href=&quot;http://signalvnoise.com/posts/1726-the-newest-signal-jason-zimdars-designer&quot;&gt;some crazy hoops&lt;/a&gt; during the interview process. This is despite their generic job postings. Here&amp;#39;s their latest. . .&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Send relevant work samples, and anything else that will make you stand out, to jason@basecamp.com. Extra effort and personal touches will be looked upon favorably.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The purpose is to evaluate one metric. &lt;em&gt;&amp;quot;It&amp;#39;s effort&amp;quot;&lt;/em&gt;, says co-founder Jason Fried. &amp;quot;I hire people on the &lt;em&gt;basis of the effort they put into getting the job&lt;/em&gt;. We don&amp;#39;t define effort; we just ask for it.&amp;quot; Fried goes on to say that effort is rare and talent is overrated in his recent post, &lt;a href=&quot;http://www.inc.com/magazine/201405/jason-fried/hiring-based-on-effort-not-resumes.html&quot;&gt;The One Trait That Guarantees a Good Hire&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Though effort can&amp;#39;t be taught or included on your resume, harness it and you are sure to stand out in the crowd.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Better Late Than Never</title>
-   <link href="http://natewinn.com/2014/05/19/better-late-than-never/"/>
+   <link href="http://natewinn.com/better-late-than-never.html"/>
    <updated>2014-05-19T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/19/better-late-than-never</id>
+   <id>http://natewinn.com/better-late-than-never</id>
    <content type="html">&lt;p&gt;I came across this tweet today from the Wall Street Journal...&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;In 2009, BlackBerry accounted for about half of the North American smartphone market. Now it is 0.6%. &lt;a href=&quot;http://t.co/4q1SS7IcSt&quot;&gt;http://t.co/4q1SS7IcSt&lt;/a&gt;&lt;/p&gt;&amp;mdash; Wall Street Journal (@WSJ) &lt;a href=&quot;https://twitter.com/WSJ/statuses/468230010986561536&quot;&gt;May 19, 2014&lt;/a&gt;&lt;/blockquote&gt;
@@ -47,9 +64,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Go Make Mistakes</title>
-   <link href="http://natewinn.com/2014/05/18/go-make-mistakes/"/>
+   <link href="http://natewinn.com/go-make-mistakes.html"/>
    <updated>2014-05-18T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/18/go-make-mistakes</id>
+   <id>http://natewinn.com/go-make-mistakes</id>
    <content type="html">&lt;p&gt;That&amp;#39;s right. Mistakes are a &lt;strong&gt;good&lt;/strong&gt; thing. They&amp;#39;re mandatory for learning. You have to mess up to learn a new skill. I don&amp;#39;t care who you are, &lt;em&gt;failure will be inevitable&lt;/em&gt; when doing something for the first time.&lt;/p&gt;
 
 &lt;h2&gt;Even the Elite Fail&lt;/h2&gt;
@@ -70,9 +87,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Screenhero to the Rescue</title>
-   <link href="http://natewinn.com/2014/05/17/screenhero-to-the-rescue/"/>
+   <link href="http://natewinn.com/screenhero-to-the-rescue.html"/>
    <updated>2014-05-17T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/17/screenhero-to-the-rescue</id>
+   <id>http://natewinn.com/screenhero-to-the-rescue</id>
    <content type="html">&lt;p&gt;Screen sharing for computers isn’t something revolutionary. It&amp;#39;s been around for years. Mac users will remember the days of iChat with AIM to enable video chat and screen sharing. But, you were limited to sharing with just fellow mac users — not to mention it was pretty temperamental, especially if you didn&amp;#39;t have the right ports open on your router. Skype solved the cross-platform problem, but until recently you needed a premium account to access screen sharing. Even though screen sharing is available for all accounts, I find Skype&amp;#39;s quality lacking and interface unnecessarily complicated. &lt;em&gt;But, fear not&lt;/em&gt;! There’s a new tool that saves the day. &lt;/p&gt;
 
 &lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-17-screenhero-logo.png&quot; alt=&quot;Screenhero Logo&quot;&gt;&lt;/img&gt;&lt;/p&gt;
@@ -113,9 +130,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>The Language of the Future</title>
-   <link href="http://natewinn.com/2014/05/16/the-language-of-the-future/"/>
+   <link href="http://natewinn.com/the-language-of-the-future.html"/>
    <updated>2014-05-16T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/16/the-language-of-the-future</id>
+   <id>http://natewinn.com/the-language-of-the-future</id>
    <content type="html">&lt;p&gt;Though I&amp;#39;m 30-years-old and just now diving into coding, I realize there is no better time to learn than &lt;strong&gt;now&lt;/strong&gt;. It&amp;#39;s never &lt;em&gt;too late&lt;/em&gt; to start learning. The landscape is changing so fast that &lt;em&gt;everyone&lt;/em&gt; has to be continually learning the latest technologies. So, there&amp;#39;s always a good spot to jump in. Don&amp;#39;t let a late start discourage you from getting started! There&amp;#39;s no better day than &lt;strong&gt;today&lt;/strong&gt; to start learning.&lt;/p&gt;
 
 &lt;p&gt;Starbucks is my usual Sunday morning spot. I get there early to work on my weekend homework. This past Sunday, the New York Times caught my eye on the way in. This was on the front page:&lt;/p&gt;
@@ -134,9 +151,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Win With Google</title>
-   <link href="http://natewinn.com/2014/05/15/win-with-google/"/>
+   <link href="http://natewinn.com/win-with-google.html"/>
    <updated>2014-05-15T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/15/win-with-google</id>
+   <id>http://natewinn.com/win-with-google</id>
    <content type="html">&lt;p&gt;Without a doubt, &lt;a href=&quot;https://www.google.com/&quot;&gt;Google&lt;/a&gt; is a newbie coder&amp;#39;s best friend. But, when approaching a new concept don&amp;#39;t head for that search bar just yet! Your first step &lt;em&gt;shouldn&amp;#39;t&lt;/em&gt; be to scour the web when you&amp;#39;re setting out to tackle a new challenge. It&amp;#39;s understandable that a new concept can be overwhelming, and the thought of trying to do something new can be daunting. But, instead of turning to the internet, try to breakdown the new challenge into actionable chunks that you &lt;em&gt;can&lt;/em&gt; complete. &lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -145,11 +162,11 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
 
 &lt;p&gt;Logically think through what you have to accomplish and figure out the essential steps needed to accomplish those tasks. This happened &lt;strong&gt;today&lt;/strong&gt; when we had to create a jQuery modal by ourselves. It was a daunting task when you see the code for most modals you find online. You see the code and think it &lt;em&gt;has&lt;/em&gt; to be complicated and there&amp;#39;s &lt;em&gt;no way&lt;/em&gt; I can do that. And I fell right into the trap. When we came into class this morning, Shelby asked us to break it down. In reality, a modal can be accomplished as easy as using a javascript .on(&amp;#39;click&amp;#39;) on a .div set to display:none.&lt;/p&gt;
 
-&lt;p&gt;Try it for yourself first . . . even if you &lt;em&gt;know&lt;/em&gt; you&amp;#39;re going to fail. Once, you create your own iteration &lt;a href=&quot;/2014/05/01/the-rubber-duck/&quot;&gt;talk through it&lt;/a&gt;. See if you can spot any errors errors. If not, then you can start searching. Before getting carried away and letting hours upon hours of time pass, here are &lt;strong&gt;six tips&lt;/strong&gt; to finding a solution on Google.&lt;/p&gt;
+&lt;p&gt;Try it for yourself first . . . even if you &lt;em&gt;know&lt;/em&gt; you&amp;#39;re going to fail. Once, you create your own iteration &lt;a href=&quot;/the-rubber-duck.html&quot;&gt;talk through it&lt;/a&gt;. See if you can spot any errors errors. If not, then you can start searching. Before getting carried away and letting hours upon hours of time pass, here are &lt;strong&gt;six tips&lt;/strong&gt; to finding a solution on Google.&lt;/p&gt;
 
 &lt;h2&gt;Guides First&lt;/h2&gt;
 
-&lt;p&gt;Turn to the docs/guides before you go anywhere else online. I&amp;#39;ve mentioned before just how &lt;a href=&quot;/2014/04/30/read-the-docs/&quot;&gt;valuable&lt;/a&gt; the docs can be. In all honesty, the docs are generally going to be the first thing that comes up with a Google search anyway. So, you might as well start there. You&amp;#39;ll find &lt;em&gt;many&lt;/em&gt; problems can be solved and &lt;em&gt;much&lt;/em&gt; time can be saved by just looking at the docs. &lt;/p&gt;
+&lt;p&gt;Turn to the docs/guides before you go anywhere else online. I&amp;#39;ve mentioned before just how &lt;a href=&quot;/read-the-docs.html&quot;&gt;valuable&lt;/a&gt; the docs can be. In all honesty, the docs are generally going to be the first thing that comes up with a Google search anyway. So, you might as well start there. You&amp;#39;ll find &lt;em&gt;many&lt;/em&gt; problems can be solved and &lt;em&gt;much&lt;/em&gt; time can be saved by just looking at the docs. &lt;/p&gt;
 
 &lt;h2&gt;Be Specific&lt;/h2&gt;
 
@@ -181,9 +198,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Good Advice...</title>
-   <link href="http://natewinn.com/2014/05/15/good-advice/"/>
+   <link href="http://natewinn.com/good-advice.html"/>
    <updated>2014-05-15T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/15/good-advice</id>
+   <id>http://natewinn.com/good-advice</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Not what you want to hear, but what you need to hear. Not designed to make you feel better, designed to make you better.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -194,9 +211,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Throwing In the Towel</title>
-   <link href="http://natewinn.com/2014/05/13/rail-throwing-in-the-towel/"/>
+   <link href="http://natewinn.com/rail-throwing-in-the-towel.html"/>
    <updated>2014-05-13T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/13/rail-throwing-in-the-towel</id>
+   <id>http://natewinn.com/rail-throwing-in-the-towel</id>
    <content type="html">&lt;p&gt;It&amp;#39;s midnight, and I&amp;#39;m &lt;a href=&quot;http://en.wiktionary.org/wiki/throw_in_the_towel&quot;&gt;throwing in the towel&lt;/a&gt;. Every day at The Iron Yard is difficult, but today was just one of those days. I walked in to ATV around 6:30am. Since then, I have been outside only three times-a Starbucks run, to FaceTime my family, and to grab something to eat. Based on the homework assigned for tonight, I thought my day would be a relatively easy day. &lt;strong&gt;Nope&lt;/strong&gt;. Things didn&amp;#39;t go as expected pretty early on, and my &amp;quot;easy&amp;quot; day was anything but. Since I started to code, I have realized that everything isn&amp;#39;t going to immediately make sense or work the first time I try. As a matter of fact, &lt;em&gt;very few things do&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2&gt;A New Day&lt;/h2&gt;
@@ -207,16 +224,16 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Hello World</title>
-   <link href="http://natewinn.com/2014/05/12/rail-new-blog/"/>
+   <link href="http://natewinn.com/rail-new-blog.html"/>
    <updated>2014-05-12T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/12/rail-new-blog</id>
+   <id>http://natewinn.com/rail-new-blog</id>
    <content type="html">&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;puts Hello World
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Hi, my name is &lt;a href=&quot;http://natewinn.com/colophon/&quot;&gt;Nathan Winn&lt;/a&gt;. You can call me Nate. This is my new home. Welcome.&lt;/p&gt;
 
 &lt;p&gt;I&amp;#39;ve wanted to start a blog for a &lt;em&gt;very&lt;/em&gt; long time. I&amp;#39;ve owned this domain for years, but I&amp;#39;ve made excuse after excuse to not get something started. You know, the typical ones. &amp;quot;I don&amp;#39;t have enough time,&amp;quot; &amp;quot;nobody is interested in what I have to say,&amp;quot; and &amp;quot;I&amp;#39;m not talented enough to make the site look good.&amp;quot; &lt;/p&gt;
 
-&lt;p&gt;Recently, I&amp;#39;ve been challenged by both &lt;a href=&quot;/2014/04/08/how-to-win-the-internet/&quot;&gt;John Saddington&lt;/a&gt; and my good friend, &lt;a href=&quot;http://jadlimcaco.com/blog/homeless-designers/&quot;&gt;Jad Limcaco&lt;/a&gt; to create an online presence. So, this past Friday, I determined I would get a blog up and running by &lt;strong&gt;today&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Recently, I&amp;#39;ve been challenged by both &lt;a href=&quot;/how-to-win-the-internet.html&quot;&gt;John Saddington&lt;/a&gt; and my good friend, &lt;a href=&quot;http://jadlimcaco.com/blog/homeless-designers/&quot;&gt;Jad Limcaco&lt;/a&gt; to create an online presence. So, this past Friday, I determined I would get a blog up and running by &lt;strong&gt;today&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Though this is &lt;em&gt;technically&lt;/em&gt; my first post, I&amp;#39;m sure you&amp;#39;ll notice there&amp;#39;s quite a bit of content already posted. I started writing posts in my text editor since I began my coding journey at &lt;a href=&quot;http://theironyard.com/&quot;&gt;The Iron Yard&lt;/a&gt; knowing that one day, I would finally create a site to post them. &lt;em&gt;That day is today&lt;/em&gt;!&lt;/p&gt;
 
@@ -246,9 +263,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Halftime</title>
-   <link href="http://natewinn.com/2014/05/10/half-time/"/>
+   <link href="http://natewinn.com/half-time.html"/>
    <updated>2014-05-10T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/10/half-time</id>
+   <id>http://natewinn.com/half-time</id>
    <content type="html">&lt;p&gt;My son, Owen, will be 9 months old tomorrow. It&amp;#39;s &lt;em&gt;incredible&lt;/em&gt; how fast the time has gone by! On days like this, I like to look through the pictures my wife and I have taken of him and take just a few moments to reminisce.&lt;/p&gt;
 
 &lt;p&gt;Without fail, I say to my wife, “I can’t believe how much he has grown!” In fact, I &lt;em&gt;always&lt;/em&gt; remind her of the picture I took when she put him in his carseat for the the very first time. His newborn clothes were so big on him, and he nearly disappeared into his carseat.&lt;/p&gt;
@@ -272,9 +289,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>A Common Goal</title>
-   <link href="http://natewinn.com/2014/05/03/a-common-goal/"/>
+   <link href="http://natewinn.com/a-common-goal.html"/>
    <updated>2014-05-03T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/03/a-common-goal</id>
+   <id>http://natewinn.com/a-common-goal</id>
    <content type="html">&lt;p&gt;Having someone with which to strive toward a common goal will exponentially increase your chances of success. This is exactly why the &lt;a href=&quot;http://john.do/dream-big-dreams/&quot;&gt;cohort model&lt;/a&gt; at The Iron Yard is so awesome. When sailing out into unchartered territory and attempting to achieve something big, it is &lt;em&gt;vital&lt;/em&gt; to have someone you can be accountable to—someone who is able to celebrate each success, yet encourage with every setback. &lt;/p&gt;
 
 &lt;h2&gt;An Equal Challenge&lt;/h2&gt;
@@ -291,15 +308,15 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
 &lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-03-after-run.jpg&quot; alt=&quot;Winn Family After the Race&quot;&gt;&lt;/img&gt;
 &lt;figure&gt;&lt;figcaption&gt;After Crossing the Finish Line&lt;/figcaption&gt;&lt;/figure&gt; &lt;/p&gt;
 
-&lt;p&gt;There have been &lt;em&gt;numerous&lt;/em&gt; times along the way that I&amp;#39;ve really wanted to throw in the towel. It says &lt;strong&gt;intensive&lt;/strong&gt; on The Iron Yard website for good reason! But, I try to remember the &lt;a href=&quot;/2014/04/15/teamwork-makes-the-dream-work/&quot;&gt;people&lt;/a&gt; pulling for me, and I don&amp;#39;t want to let them down. I would encourage you in setting out to achieve something big, take someone along for the ride.&lt;/p&gt;
+&lt;p&gt;There have been &lt;em&gt;numerous&lt;/em&gt; times along the way that I&amp;#39;ve really wanted to throw in the towel. It says &lt;strong&gt;intensive&lt;/strong&gt; on The Iron Yard website for good reason! But, I try to remember the &lt;a href=&quot;/teamwork-makes-the-dream-work.html&quot;&gt;people&lt;/a&gt; pulling for me, and I don&amp;#39;t want to let them down. I would encourage you in setting out to achieve something big, take someone along for the ride.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Rubber Duck</title>
-   <link href="http://natewinn.com/2014/05/01/the-rubber-duck/"/>
+   <link href="http://natewinn.com/the-rubber-duck.html"/>
    <updated>2014-05-01T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/05/01/the-rubber-duck</id>
+   <id>http://natewinn.com/the-rubber-duck</id>
    <content type="html">&lt;p&gt;Today, &lt;a href=&quot;http://timw.co/&quot;&gt;Tim Whitacre&lt;/a&gt; of &lt;a href=&quot;http://argyllstudios.com/&quot;&gt;Argyll Studios&lt;/a&gt; joined us at The Iron Yard to discuss his experiences as a front-end developer. During his talk, he mentioned &lt;em&gt;duck programming&lt;/em&gt;, a reference to a story in the book, &lt;a href=&quot;http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X&quot;&gt;The Pragmatic Programmer&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-05-01-rubber-duck.jpg&quot; alt=&quot;Rubber Duck&quot;&gt;&lt;/img&gt;&lt;/p&gt;
@@ -320,9 +337,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Read the Docs</title>
-   <link href="http://natewinn.com/2014/04/30/read-the-docs/"/>
+   <link href="http://natewinn.com/read-the-docs.html"/>
    <updated>2014-04-30T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/30/read-the-docs</id>
+   <id>http://natewinn.com/read-the-docs</id>
    <content type="html">&lt;p&gt;I&amp;#39;m &lt;em&gt;constantly&lt;/em&gt; having problems with my code or don&amp;#39;t fully understand a concept being covered in class. After wrestling over it for an embarrassing amount of time, I will ask my instructor, &lt;a href=&quot;https://twitter.com/switzerly&quot;&gt;Shelby&lt;/a&gt;, for help. Her standard response is &lt;em&gt;always&lt;/em&gt;, &amp;quot;Did you read the docs?&amp;quot; In other words, did you try reading the &amp;quot;instruction manual&amp;quot; before trying to &amp;quot;assemble&amp;quot; your code. She&amp;#39;s not doing this to be mean, but to teach me to be a &lt;strong&gt;problem solver&lt;/strong&gt;, to step back and understand what is happening at a foundational level instead of just rigging together some code. &lt;/p&gt;
 
 &lt;p&gt;After looking at the &lt;a href=&quot;http://guides.rubyonrails.org/&quot;&gt;Rails Guides&lt;/a&gt;, I noticed the option to download the guides for &lt;a href=&quot;http://www.amazon.com/dp/B00AWH595M/ref=fs_clw&quot;&gt;Kindle&lt;/a&gt;. After looking at a computer screen (literally) all day, the last thing I want to do is read documentation on my computer. So, I sprung for a Kindle during a recent sale. Since loading up Ruby Guides, both the Guides and the Kindle have become an &lt;em&gt;awesome&lt;/em&gt; tool.&lt;/p&gt;
@@ -334,7 +351,7 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
 
 &lt;p&gt;The Rails Guides are pretty sweet (Yes, you were right, Shelby!). They are written in a very conversational tone and not typical engineer language. Also, the documentation begins by taking you through a real world example of how to practically implement Rails. You will realize &lt;em&gt;very quickly&lt;/em&gt; the Guides are more than just a step-by-step list of instructions. Instead, Rails Guides will lead you through errors created by each step. The Guides will explain why the error occurs, why Rails is set up that way, and what you can add to eliminate the error. So, you&amp;#39;re not just learning the &lt;em&gt;how&lt;/em&gt;, but the &lt;em&gt;why&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;The last time &lt;a href=&quot;http://john.do/&quot;&gt;John&lt;/a&gt; spoke to our cohort about &lt;a href=&quot;/2014/04/28/projects-to-products/&quot;&gt;Taking Projects to Products&lt;/a&gt; he mentioned documentation. When developing &lt;a href=&quot;http://pressgr.am/&quot;&gt;Pressgram&lt;/a&gt; for iOS, John, even as a seasoned software engineer, started reading the iOS docs from the beginning. This was a huge lesson to me. He went on to explain that &lt;em&gt;no one&lt;/em&gt; is above the docs. There&amp;#39;s nothing fancy or cool about the docs, but they work.&lt;/p&gt;
+&lt;p&gt;The last time &lt;a href=&quot;http://john.do/&quot;&gt;John&lt;/a&gt; spoke to our cohort about &lt;a href=&quot;/projects-to-products.html&quot;&gt;Taking Projects to Products&lt;/a&gt; he mentioned documentation. When developing &lt;a href=&quot;http://pressgr.am/&quot;&gt;Pressgram&lt;/a&gt; for iOS, John, even as a seasoned software engineer, started reading the iOS docs from the beginning. This was a huge lesson to me. He went on to explain that &lt;em&gt;no one&lt;/em&gt; is above the docs. There&amp;#39;s nothing fancy or cool about the docs, but they work.&lt;/p&gt;
 
 &lt;p&gt;Obviously, the Rails Guides are an incredible reference tool. But, if you&amp;#39;re just starting out, I would encourage you to not go buffet-style and pick and choose from the Guides. Instead, start from the beginning to gain a firm understanding of how Rails works. Honestly, I have just about zero time to right now, but having the Kindle is allowing me to read more consistently.&lt;/p&gt;
 
@@ -352,9 +369,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Projects to Products</title>
-   <link href="http://natewinn.com/2014/04/28/projects-to-products/"/>
+   <link href="http://natewinn.com/projects-to-products.html"/>
    <updated>2014-04-28T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/28/projects-to-products</id>
+   <id>http://natewinn.com/projects-to-products</id>
    <content type="html">&lt;p&gt;John spoke to us today about his latest creation &lt;a href=&quot;http://pressgr.am/&quot;&gt;Pressgram&lt;/a&gt;, an iOS app that allows you to edit, filter, and publish photos to your own blog and site. It was a practical look into turning a &lt;em&gt;project&lt;/em&gt; into a sellable &lt;em&gt;product&lt;/em&gt;. The talk was &lt;strong&gt;epic&lt;/strong&gt; with tons of practical advice from a proven entrepreneur. Here are my top takeaways . . .&lt;/p&gt;
 
 &lt;h2&gt;Innovative solutions are mashups of ineffective solutions&lt;/h2&gt;
@@ -379,9 +396,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Going Further, Faster</title>
-   <link href="http://natewinn.com/2014/04/21/going-further-faster/"/>
+   <link href="http://natewinn.com/going-further-faster.html"/>
    <updated>2014-04-21T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/21/going-further-faster</id>
+   <id>http://natewinn.com/going-further-faster</id>
    <content type="html">&lt;p&gt;I think John summed it up well in his recent blog &lt;a href=&quot;http://john.do/dream-big-dreams/&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -400,9 +417,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Teamwork Makes the Dream Work</title>
-   <link href="http://natewinn.com/2014/04/15/teamwork-makes-the-dream-work/"/>
+   <link href="http://natewinn.com/teamwork-makes-the-dream-work.html"/>
    <updated>2014-04-15T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/15/teamwork-makes-the-dream-work</id>
+   <id>http://natewinn.com/teamwork-makes-the-dream-work</id>
    <content type="html">&lt;p&gt;In my past positions, when undertaking a project I gathered a team, sometimes volunteers and sometimes paid, and figured how we would get the job done. Being a part of a team has allowed me to see some &lt;em&gt;incredible&lt;/em&gt; things accomplished. Without question, the &amp;quot;task&amp;quot; was &lt;em&gt;always&lt;/em&gt; completed far better with the help of my team than I could have done myself. Though my experiences at The Iron Yard are largely a personal challenge, I realize that &lt;strong&gt;no man is an island unto himself&lt;/strong&gt;. Here&amp;#39;s &amp;quot;my team&amp;quot; that has already helped me immensely.&lt;/p&gt;
 
 &lt;h2&gt;Cheerleaders&lt;/h2&gt;
@@ -433,9 +450,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>Making a List, Checking It Twice</title>
-   <link href="http://natewinn.com/2014/04/14/making-a-list-checking-it-twice/"/>
+   <link href="http://natewinn.com/making-a-list-checking-it-twice.html"/>
    <updated>2014-04-14T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/14/making-a-list-checking-it-twice</id>
+   <id>http://natewinn.com/making-a-list-checking-it-twice</id>
    <content type="html">&lt;p&gt;In 2007, Atul Gawande, general surgeon at Brigham and Women&amp;#39;s Hospital in Boston, Massachusetts and associate professor at the Harvard School of Public Health, wrote an article for the New Yorker entitled &lt;a href=&quot;http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande?currentPage=all&quot;&gt;The Checklist&lt;/a&gt;. This article later developed into a New York Times Bestseller, &lt;a href=&quot;http://www.amazon.com/The-Checklist-Manifesto-Things-Right/dp/0312430000&quot;&gt;The Checklist Manifesto&lt;/a&gt;. The book’s main point is simple: no matter how expert you may be, well-designed checklists can improve outcomes. In fact, &lt;a href=&quot;https://twitter.com/jack&quot;&gt;Jack Dorsey&lt;/a&gt;, co-founder of Twitter and founder of Square, gives a copy of this &lt;a href=&quot;http://www.sfgate.com/technology/businessinsider/article/Jack-Dorsey-Gives-Everyone-He-Hires-The-Same-Red-3909392.php&quot;&gt;book&lt;/a&gt; to everyone hired at Square.&lt;/p&gt;
 
 &lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-04-14-checklist-manifesto.png&quot; alt=&quot;Square Welcome Packet&quot;&gt;&lt;/img&gt;
@@ -459,9 +476,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>One Year's Time</title>
-   <link href="http://natewinn.com/2014/04/09/one-years-time/"/>
+   <link href="http://natewinn.com/one-years-time.html"/>
    <updated>2014-04-09T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/09/one-years-time</id>
+   <id>http://natewinn.com/one-years-time</id>
    <content type="html">&lt;p&gt;Exactly one year ago today, I created an account at &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; and began filling out an application in hopes of joining an upcoming cohort. But that very same night, I began to reason with myself why I would never be able to attend.&lt;/p&gt;
 
 &lt;h2&gt;Excuses, Excuses&lt;/h2&gt;
@@ -486,9 +503,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>How to Win the Internet</title>
-   <link href="http://natewinn.com/2014/04/08/how-to-win-the-internet/"/>
+   <link href="http://natewinn.com/how-to-win-the-internet.html"/>
    <updated>2014-04-08T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/04/08/how-to-win-the-internet</id>
+   <id>http://natewinn.com/how-to-win-the-internet</id>
    <content type="html">&lt;p&gt;Today, &lt;a href=&quot;https://twitter.com/saddington&quot;&gt;John Saddington&lt;/a&gt;, partner at The Iron Yard, stopped by to chat with the Ruby and iOS cohorts about &lt;em&gt;Winning the Internet&lt;/em&gt;. His challenge to us was simple. &lt;strong&gt;Be in control of our brand online&lt;/strong&gt;. Each of us have the power to curate what people find when Googling our name. &lt;/p&gt;
 
 &lt;h2&gt;Still Learning&lt;/h2&gt;
@@ -529,9 +546,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>On Your Mark, Get Set, Go</title>
-   <link href="http://natewinn.com/2014/03/30/on-your-marks-get-set-go/"/>
+   <link href="http://natewinn.com/on-your-marks-get-set-go.html"/>
    <updated>2014-03-30T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/03/30/on-your-marks-get-set-go</id>
+   <id>http://natewinn.com/on-your-marks-get-set-go</id>
    <content type="html">&lt;p&gt;Day one of The Iron Yard has come to an end. After some preliminary announcements and a quick tour of the awesome &lt;a href=&quot;http://atlantatechvillage.com/&quot;&gt;Atlanta Tech Village&lt;/a&gt;, we hit the ground running. Actually, it was more like &lt;em&gt;sprinting&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2&gt;Rolling with Ruby&lt;/h2&gt;
@@ -557,9 +574,9 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
  
  <entry>
    <title>The Journey Begins</title>
-   <link href="http://natewinn.com/2014/03/29/the-journey-begins/"/>
+   <link href="http://natewinn.com/the-journey-begins.html"/>
    <updated>2014-03-29T00:00:00-04:00</updated>
-   <id>http://natewinn.com/2014/03/29/the-journey-begins</id>
+   <id>http://natewinn.com/the-journey-begins</id>
    <content type="html">&lt;p&gt;When venturing out to accomplish something new there is always an equal amount of &lt;strong&gt;excitement&lt;/strong&gt; and &lt;strong&gt;fear&lt;/strong&gt;. And that&amp;#39;s exactly the feeling I have as I sit here on Southwest Flight #WN564. &lt;/p&gt;
 
 &lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-03-29-the-journey-begins.jpg&quot; alt=&quot;Online in an Airplane&quot;&gt;&lt;/img&gt;
