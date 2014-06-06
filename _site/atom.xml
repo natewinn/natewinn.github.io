@@ -4,13 +4,57 @@
  <title>Nate Winn</title>
  <link href="http://natewinn.com/atom.xml" rel="self"/>
  <link href="http://natewinn.com/"/>
- <updated>2014-05-23T07:33:01-04:00</updated>
+ <updated>2014-06-06T14:37:13-04:00</updated>
  <id>http://natewinn.com</id>
  <author>
    <name>Nate Winn</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Meet Chris Turner</title>
+   <link href="http://natewinn.com/chris-turner-iron-yard-rails.html"/>
+   <updated>2014-06-06T00:00:00-04:00</updated>
+   <id>http://natewinn.com/chris-turner-iron-yard-rails</id>
+   <content type="html">&lt;p&gt;Chris Turner is the &lt;em&gt;first&lt;/em&gt; interview from the members of &lt;a href=&quot;http://theironyard.com/locations/atlanta/&quot;&gt;The Iron Yard - Atlanta Rails&lt;/a&gt; cohort.&lt;/p&gt;
+
+&lt;h2&gt;What were you up to before coming to The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;I started a non-profit organization in high school and continued to build it through college. In fact, non-profits interested me so much, I got a masters degree in non-profit management. Every non-profit organization does some type of fundraising, and that quickly became my niche. I did fundraising for two different organizations in Augusta prior to moving to Atlanta to take a consulting gig for an area non-profit.&lt;/p&gt;
+
+&lt;p&gt;I recently wrote a post on my &lt;a href=&quot;https://medium.com/@empowerchris/1245f3830c55&quot;&gt;blog&lt;/a&gt; about this recent experience. I consulted on a fundraising project for an organization that was teaching kids how to be entrepreneurs. The organization was called Georgia Real. I had signed on to raise $100,000 from September to the end of the year. When I came on board, I spent a ton of time bringing them up to speed. They were way behind on what needed to be done to make the project a success. So, I helped them update their financials, produce marketing materials, and establish a social media presence. That alone took about a month and a half, but I knew it was essential if the project was going to be a success. I then built relationships with potential donors. Just one week prior to my deadline, I had received $200,000 in pledges! The next week, my deadline, &lt;em&gt;all of the donors fell through&lt;/em&gt;. Everything fell apart. My wife didn&amp;#39;t have a job at the time, so we were left with nothing.&lt;/p&gt;
+
+&lt;p&gt;I began looking around to figure out what &lt;em&gt;I wanted to do with my life&lt;/em&gt;. I was fed up with fundraising at that point. I found The Iron Yard, and it aligned with my desire to be an entrepreneur. I had always wanted to get projects off the ground, to build my own stuff. The Iron Yard seemed like just the right place for me. My ultimate goal is to create an organization to inspire and empower kids to create things. So, I figured what a better way than to create the tools I need myself. &lt;/p&gt;
+
+&lt;h2&gt;Why did you choose The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#39;m guilty of over researching things. When I found out about The Iron Yard, I looked into every similar program imaginable. It kinda drives my wife crazy. I considered going to Greenville for The Iron Yard front-end program. In fact, I had actually selected the front-end program until it was decided the Atlanta location wasn&amp;#39;t going to offer a front-end program right away. So, I changed my mind back to the Rails track and committed to the Atlanta location. But, I definitely did my research before I came. I ultimately chose &lt;a href=&quot;http://atlanta.theironyard.com/&quot;&gt;The Iron Yard - Atlanta&lt;/a&gt; because it made the most sense for my situation.&lt;/p&gt;
+
+&lt;h2&gt;Why Ruby on Rails?&lt;/h2&gt;
+
+&lt;p&gt;Rails wasn&amp;#39;t my first choice, to be quite honest. My personality is much more inclined to design, and I don&amp;#39;t really have an engineer&amp;#39;s mindset. I&amp;#39;m much more of the free spirit type. I initially made the decision to pursue the front-end track because I thought it would be a better fit for me. But, &lt;em&gt;choosing Ruby has been a blessing&lt;/em&gt;. I find that I am much more capable of teaching myself the front-end aspect of development. I know learning Rails now is eventually going to make me a more well-rounded developer. I would never have taken the time to learn all the Rails, AJAX, and database stuff myself.&lt;/p&gt;
+
+&lt;h2&gt;Expectations vs. actual experience?&lt;/h2&gt;
+
+&lt;p&gt;I really made sure I had a good understanding of what I was getting myself into. I talked to John a good bit before committing to attend. I asked him exactly what the process was like. I made sure that I reaffirmed my own concerns about not having an engineer&amp;#39;s mindset, that I wouldn&amp;#39;t have a problem developing an analytical approach to coding. John said &lt;em&gt;it would be one of the hardest things that I had ever done&lt;/em&gt;. But, as long as I was dedicated to do what I said I wanted to do, I would make it through. John talked much about the relationships that I would create at The Iron Yard. Any time you go through a challenging experience with other people, you build close relationships much faster. This has definitely exceeded my expectations. &lt;strong&gt;I didn&amp;#39;t expect to create such good relationships with those in my cohort&lt;/strong&gt;. I know everyone in our class on a much deeper, personal level than any other person I have only known for just 7 weeks. It&amp;#39;s been really cool to watch these relationships grow and develop.&lt;/p&gt;
+
+&lt;h2&gt;Best advice for those considering a coding bootcamp?&lt;/h2&gt;
+
+&lt;p&gt;This has been my challenge—understand that people are coming into this with different levels of experience. &lt;strong&gt;Do not compare yourself to them!&lt;/strong&gt; I still fight this every day. You have to constantly remind yourself and tell yourself over and over again that as long as you&amp;#39;re trying as hard as you possibly can, you&amp;#39;re okay. &lt;em&gt;Put in your absolute best effort and be fine with that&lt;/em&gt;. There are going to be people that come into the program that have a whole lot more experience than you. You must have the mindset that you don&amp;#39;t suck just because they seem to be doing slightly better than you in some way. You must realize that we&amp;#39;re good at different things too. I feel like I am improving my design skills with each new project. So, there are days when I&amp;#39;m really proud of the design and disappointed with my code. Someone sitting next to me may admire my design, but in reality his code may way better than mine! &lt;em&gt;Constantly avoid envy at all costs&lt;/em&gt;. &lt;/p&gt;
+
+&lt;h2&gt;Where do you see yourself going from here?&lt;/h2&gt;
+
+&lt;p&gt;Working from the back, forward . . . my ultimate goal is to start a company with what I&amp;#39;ve learned and have the ability to launch ideas when I think of them. Because of my situation, I need to find somewhat of a permanent position to have some stability in my marriage. So, the perfect scenario is that I would finish and move into a company that has an entrepreneurial mindset. &lt;em&gt;I want to continue to learn and be challenged&lt;/em&gt; with difficult assignments and tasks. I would ultimately like to learn more of the front-end as well and add those skills to what I&amp;#39;ve learned at &lt;a href=&quot;http://theironyard.com/&quot;&gt;The Iron Yard&lt;/a&gt; to become a solid full-stack developer. Working for a company that would also allow me to expand in that area would be awesome!&lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-06-06-chris-turner.jpg&quot; alt=&quot;Chris Turner Iron Yard Ruby on Rails&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Find Chris at his &lt;a href=&quot;http://medium.com/@empowerchris&quot;&gt;Blog&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/empowerchris&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://github.com/empowerchris&quot;&gt;GitHub&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2&gt;About Chris&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/empowerchris1&quot;&gt;Chris Turner&lt;/a&gt; is a hacker, husband, and social entrepreneur who loves Pixar movies more than any man should.  He founded a nonprofit organization in high school and went on to serve as a professional fundraiser for nonprofits as small as 3 employees and large as CARE International.  He will soon graduate from the &lt;a href=&quot;http://theironyard.com/academy/rails-engineering/&quot;&gt;The Iron Yard’s&lt;/a&gt; first-ever Ruby on Rails cohort, and looks forward to using his code skills to empower creativity in others.  Chris Turner lives in Decatur with his wife Hannah and their crazy Australian Shepherd, Salem.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Coding Cohort</title>
@@ -489,13 +533,13 @@ Despite Blackberry&amp;#39;s dominance in mobile phones, Apple chose to launch t
    <id>http://natewinn.com/pixel-for-pixel</id>
    <content type="html">&lt;p&gt;This Wednesday we dove head first into HTML and CSS with our Teaching Assistant, Katy. Working as a designer in the past, I&amp;#39;ve mocked up quite a few website to be coded. Though I&amp;#39;ve learned best practices to pass off mockups to a developer, I regretably never took the time to learn how to properly code the designs myself. &lt;/p&gt;
 
-&lt;p&gt;On Wednesday, we were challenged to code an intricate &lt;a href=&quot;http://www.natewinn.com/assets/2014-04-13-pixel-for-pixel.png&quot; target=&quot;_blank&quot;&gt;mockup&lt;/a&gt;. A similar design to what I may have designed in the past. Our cohort was challenged to replicated the site pixel for pixel using HTML and CSS. By the end of the first day, I was able to wrap my head around the syntax and grid system. From there, I was off to the races...&lt;/p&gt;
+&lt;p&gt;On Wednesday, we were challenged to code an intricate &lt;a href=&quot;http://natewinn.github.io/public/assets/2014-04-13-pixel-for-pixel.png&quot; target=&quot;_blank&quot;&gt;mockup&lt;/a&gt;. A similar design to what I may have designed in the past. Our cohort was challenged to replicated the site &lt;em&gt;pixel for pixel&lt;/em&gt; using HTML and CSS. By the end of the first day, I was able to wrap my head around the syntax and grid system. From there, I was off to the races...&lt;/p&gt;
 
 &lt;h2&gt;Learn and Apply&lt;/h2&gt;
 
 &lt;p&gt;Though parts were painfully slow and frustrating. I was kicking myself the entire time for not forcing myself to learn this sooner! The challenge had always been daunting, too difficult to begin. But here, you are expected to make things happen—to learn and apply the skills &lt;em&gt;very quickly&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;ve always had a critical eye regarding design, especially my own. Tirelessly working with developers to ensure the final layout would match what I created in Photoshop. It has definitely been a challenge to be on the other side of the table. Spending hours adjusting seemingly insignificant objects to ensure the final design was pixel for pixel definitely gave me a new appreciation for coding. Take a look at the final &lt;a href=&quot;http://htmlpreview.github.io/?https://github.com/natewinn/mobber/blob/master/index.html&quot;&gt;page&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;I&amp;#39;ve always had a critical eye regarding design, especially my own. Tirelessly working with developers to ensure the final layout would match what I created in Photoshop. It has definitely been a challenge to be on the other side of the table. Spending hours adjusting seemingly insignificant objects to ensure the final design was pixel for pixel definitely gave me &lt;em&gt;a new appreciation for coding&lt;/em&gt;. Take a look at the final &lt;a href=&quot;http://htmlpreview.github.io/?https://github.com/natewinn/mobber/blob/master/index.html&quot;&gt;page&lt;/a&gt;. &lt;/p&gt;
 </content>
  </entry>
  
