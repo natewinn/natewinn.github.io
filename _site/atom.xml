@@ -4,13 +4,75 @@
  <title>Nate Winn</title>
  <link href="http://natewinn.com/atom.xml" rel="self"/>
  <link href="http://natewinn.com/"/>
- <updated>2014-06-06T14:37:13-04:00</updated>
+ <updated>2014-06-09T00:28:35-04:00</updated>
  <id>http://natewinn.com</id>
  <author>
    <name>Nate Winn</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Meet Jeff Scholen</title>
+   <link href="http://natewinn.com/jeff-scholen-iron-yard-rails.html"/>
+   <updated>2014-06-08T00:00:00-04:00</updated>
+   <id>http://natewinn.com/jeff-scholen-iron-yard-rails</id>
+   <content type="html">&lt;p&gt;Jeff Scholen is the &lt;em&gt;second&lt;/em&gt; interview from the members of &lt;a href=&quot;http://theironyard.com/locations/atlanta/&quot;&gt;The Iron Yard - Atlanta Rails&lt;/a&gt; cohort.&lt;/p&gt;
+
+&lt;h2&gt;What were you up to before coming to The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;Last December, I lost my job and began immediately looking for another one. Around that same time, I saw an advertisement of some kind about The Iron Yard beginning in March of this year. I &lt;em&gt;immediately&lt;/em&gt; knew it was something I wanted to do. At that point, it was more of a pipe dream. March was too far away, and I needed to land a job well before then. I had been laid off before, so I wasn&amp;#39;t too worried about getting another job rather quickly. So, I buried The Iron Yard in the back of my mind and began interviewing for other positions. By mid-February, my prospects of finding a job were still pretty bleak, and I realized the timing of &lt;a href=&quot;http://theironyard.com/locations/atlanta/&quot;&gt;The Iron Yard&lt;/a&gt; might seem more realistic.&lt;/p&gt;
+
+&lt;p&gt;The thought of attending worried me. So much so, that I never approached my wife, Tracey, about it. I can remember we were driving in the car one day, and she asked me, &amp;quot;What are you thinking about?&amp;quot; I knew the twelve weeks would be more of a burden on her than me. But, our decision in me attending goes back to 2009.&lt;/p&gt;
+
+&lt;p&gt;Back in 2009, I wanted to get a MacBook Pro. My wife and I weren&amp;#39;t struggling financially, but we just didn&amp;#39;t have a lot of extra savings. When I approached her about buying the computer, she got kind of upset. She said, &amp;quot;We don&amp;#39;t have a lot of money, and you want to go get a $2,000 computer?&amp;quot; Shortly after that, she came back to me and said, &amp;quot;God is just asking me to have an open hand with you about this, and so if you want to get that computer go ahead and get it.&amp;quot; So, I went out and got it the very next day. When opened up my new MacBook Pro for the first time, I immediately noticed a problem. The cord that came with it was very annoying to manage. I quickly came up with an idea to keep my cord wrapped up and posted it on &lt;a href=&quot;https://www.quirky.com/&quot;&gt;Quirky&lt;/a&gt;. They chose to produce my idea, and I became an inventor. As a result, I have made about $90,000 in royalties over the last four years. Her small decision to let go and let me buy this computer resulted in the payout.&lt;/p&gt;
+
+&lt;p&gt;When she asked me that day what I was thinking about, I told her about The Iron Yard. So, instead of throwing up her hands, &lt;em&gt;she kept asking questions&lt;/em&gt;. I was completely unaware that she had been meeting with a friend whose husband had been out of work for over a year during their marriage. The advice she gave my wife was to keep an open hand since she didn&amp;#39;t know what God might be doing in my life. As a result, my wife didn&amp;#39;t put up any roadblocks.&lt;/p&gt;
+
+&lt;p&gt;I met with &lt;a href=&quot;http://john.do/about/&quot;&gt;John Saddington&lt;/a&gt; shortly after that, and he seemed to be positive about me attending. Because I was still looking for a job, I still questioned if it was a real opportunity. If God wanted me to move in this direction, &lt;em&gt;He was going to have to kind of open all the doors&lt;/em&gt;. Over the next few weeks, I had several phone interviews, a lot of them positive, but every door closed. It was like one thing after another. A week before the class started Kimberly Clark called me and said they wanted to bring me back to interview for another position. But, they ended up offering that job to someone internally. I took that as an affirmation of God opening up one final door. I had confidence that attending &lt;a href=&quot;https://twitter.com/TheIronYard&quot;&gt;The Iron Yard&lt;/a&gt; was what I was supposed to be doing. There were other things that aligned too. Finances worked out. My dad agreed to pay for the class. Knowing the struggle it was going to be, my wife was one hundred precent in favor to go.&lt;/p&gt;
+
+&lt;h2&gt;Why did you choose The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;I had heard about The Iron Yard doing something in &lt;a href=&quot;http://greenville.theironyard.com/&quot;&gt;Greenville&lt;/a&gt;, so I was hoping they would eventually come to Atlanta. When I heard in December they were starting in &lt;a href=&quot;http://atlanta.theironyard.com/&quot;&gt;Atlanta&lt;/a&gt;, I thought it might be a possibility. Because of John Saddington&amp;#39;s involvement in Atlanta and knowing his reputation for excellence, I knew I could trust him to put something together—&lt;em&gt;something awesome&lt;/em&gt;. I really didn&amp;#39;t know of any other bootcamps in the Atlanta area like there were in other parts of the country. Going to a distant state to attend a bootcamp would have been incredibly impractical for my wife and three kids. So, the Atlanta location was perfect for me.&lt;/p&gt;
+
+&lt;h2&gt;Why Ruby on Rails?&lt;/h2&gt;
+
+&lt;p&gt;I began working for a startup back in 2007. It was a medical device company that created a device which interfaced with a Rails backend. I soon became friends with one of the programmers there. We had a lot in common and even went to the same church together. He started showing me Rails, because I was interested in software as more of a hobby at the time. The more he talked to me about Rails, the more I began to read about it. I began to toy with it by working through Michael Hartle&amp;#39;s Tutorials on Rails. As I went through the tutorials, I would gain some momentum and then would quickly fall behind because life and work got in the way. &lt;em&gt;I knew I needed something more&lt;/em&gt; disciplined if I were to really learn Rails.&lt;/p&gt;
+
+&lt;h2&gt;Expectations vs. actual experience?&lt;/h2&gt;
+
+&lt;p&gt;My wife and I established up front that it would be many late nights and difficult weekends. But, I think it has been less stressful for her because I have made the decision to leave ATV around 4pm everyday to help her with the kids. For her, it&amp;#39;s still a burden when the kids go to bed. I basically check out and do my homework until late in the evening. So, there&amp;#39;s very little quality time we spend together. I anticipated I would be spending a lot more time on the weekends doing homework but, it&amp;#39;s just tough to do that. &lt;em&gt;I have decided to simply do the best I possibly can&lt;/em&gt;. &lt;/p&gt;
+
+&lt;h2&gt;What do you enjoy most about The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;I love the environment. I have worked for a couple of companies that didn&amp;#39;t really care for the employees. &lt;strong&gt;I feel like The Iron Yard is a place of generosity and outpouring where people are being cared for&lt;/strong&gt;. It&amp;#39;s the kind of culture I really want to be a part of. And &lt;a href=&quot;http://atlantatechvillage.com/about/mission&quot;&gt;ATV&lt;/a&gt; is no different. This place maintains a culture where they want to see us succeed. I really like our instructor, &lt;a href=&quot;https://twitter.com/switzerly&quot;&gt;Shelby&lt;/a&gt;; she&amp;#39;s been great. I love the class; it&amp;#39;s tough, but I&amp;#39;m truly enjoying the process.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I feel like I&amp;#39;m really learning what I&amp;#39;ve wanted to learn for the past five years. My dream is becoming a reality.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My strong suit is troubleshooting, and this has been troubleshooting on steroids. Even though it&amp;#39;s tough at times and you want to pull your hair out, I feel like I&amp;#39;m really learning what I&amp;#39;ve wanted to learn for the past five years. My dream is becoming a reality. Often times, you will feel overwhelmed and wonder if you&amp;#39;ll have the skills you need to get a job done. &lt;em&gt;But, I have determined to just learn as much as I possibly can and have fun while learning it.&lt;/em&gt; &lt;/p&gt;
+
+&lt;h2&gt;How much experience did you have before starting?&lt;/h2&gt;
+
+&lt;p&gt;Even preparing was difficult. I knew I couldn&amp;#39;t spend all my time preparing when I knew I was about to be busier than I had ever been before. So, I had to &lt;em&gt;balance my time carefully&lt;/em&gt;. Aside from doing the Code Academy, I kind of reviewed Michael Hartle&amp;#39;s course and read some blogposts about Ruby and Rails. &lt;strong&gt;I have absolutely no programming background&lt;/strong&gt;. I took a couple of courses in Pascal when I was in college, but that was 20 years ago. And even then, I didn&amp;#39;t do too well. I just didn&amp;#39;t get programming back then. But, when I began going through Code Academy tutorials I thought, &amp;quot;Yeah I can do this.&amp;quot; I can remember John telling me when I met with him, &amp;quot;If you simply can&amp;#39;t do it, we can&amp;#39;t help you. But, if you can struggle through it and get it done,&amp;quot; he assured me The Iron Yard could provide me with the tools to learn Rails. &lt;/p&gt;
+
+&lt;h2&gt;Best advice for those considering a coding bootcamp?&lt;/h2&gt;
+
+&lt;p&gt;My best advice would be to just &lt;em&gt;clear your calendar&lt;/em&gt;. If you have family, make sure they understand. Honestly, I wish I were single doing this because that would have given me a much better opportunity to learn. Just be prepared to work hard and cry a lot. &lt;/p&gt;
+
+&lt;h2&gt;Where do you see yourself going from here?&lt;/h2&gt;
+
+&lt;p&gt;I had two motivations for doing this. One, I&amp;#39;ve wanted to learn programming for years; and two, &lt;em&gt;I have the desire to build my own applications&lt;/em&gt;. And, of course I get little ideas here and there. I already have the ability to follow through on those in a tangible way. I would ultimately like to find a company with a good culture and a good fit, and a salary that I can live on—and still on the side build my own app. Long term, I have always wanted to be in business for myself, so I&amp;#39;d love to be able to start a company. &lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-06-08-jeff-scholen.jpg&quot; alt=&quot;Jeff Scholen Iron Yard Ruby on Rails&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Find Jeff at his &lt;a href=&quot;http://www.resourcejunkie.com/&quot;&gt;Blog&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jmscholen&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://github.com/jmscholen&quot;&gt;GitHub&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2&gt;About Jeff&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/jeffscholen&quot;&gt;Jeff Scholen&lt;/a&gt; is a 45 year-old husband and father of three little girls. Jeff commutes from Alpharetta each day to attend The Iron Yard in Atlanta. Take a look at Jeff&amp;#39;s awesome invention, the &lt;a href=&quot;https://www.quirky.com/shop/15-powercurl-get-wound-up&quot;&gt;PowerCurl&lt;/a&gt;. &lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Meet Chris Turner</title>
