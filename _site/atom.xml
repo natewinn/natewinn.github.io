@@ -4,13 +4,67 @@
  <title>Nate Winn</title>
  <link href="http://natewinn.com/atom.xml" rel="self"/>
  <link href="http://natewinn.com/"/>
- <updated>2014-06-09T00:28:35-04:00</updated>
+ <updated>2014-06-09T20:39:33-04:00</updated>
  <id>http://natewinn.com</id>
  <author>
    <name>Nate Winn</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Meet Ryan Snodgrass</title>
+   <link href="http://natewinn.com/ryan-snodgrass-iron-yard-rails.html"/>
+   <updated>2014-06-09T00:00:00-04:00</updated>
+   <id>http://natewinn.com/ryan-snodgrass-iron-yard-rails</id>
+   <content type="html">&lt;p&gt;Ryan Snodgrass is the &lt;em&gt;third&lt;/em&gt; interview from the members of &lt;a href=&quot;http://theironyard.com/locations/atlanta/&quot;&gt;The Iron Yard - Atlanta Rails&lt;/a&gt; cohort.&lt;/p&gt;
+
+&lt;h2&gt;What were you up to before coming to The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;I went to the University of Central Florida and got a degree in cinema studies. Completely unrelated to programming. In fact, I took a Java or JavaScript class while I was there. I think it was Java. . . I really don&amp;#39;t remember. But, I do remember I &lt;em&gt;bombed&lt;/em&gt; it. I failed the class within the first month. Nothing really materialized with my degree so, I found myself working at a call center in Orlando, Florida. It was like the worst job in the world.&lt;/p&gt;
+
+&lt;p&gt;I have told this story so many times now, but the position was contract to hire. If I worked hard enough, they would hire me as a full-time employee. But, I knew by taking the position, it was going to be a couple of months before I would be offered a position. A couple of months passed, and I still didn&amp;#39;t get hired. The thing about a call center is you have just what you need to do your job. You are trained to know &lt;em&gt;exactly&lt;/em&gt; how to find specific answers. So, after working for a while, you master the tools and get comfortable with what&amp;#39;s going on. And then they say, &amp;quot;Surprise, this department doesn&amp;#39;t need you anymore, but we like you enough that we are going to move you to another department.&amp;quot; After the the third time this happened to me, I became &lt;em&gt;very frustrated with what I was doing&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve always been technically savvy, building my own computers and running Linux, nothing major, but definitely more technical stuff than the average Joe would attempt. I tried to get into the tech department at the call center. I had a friend who was one of the recruiters for that department and even recommended that I interview for a position. I went in for an interview, and they liked me. But, they eventually hired someone with more experience. So, about a year ago, I knew I would have to &lt;em&gt;do something different&lt;/em&gt; to get a position I desired. I began learning programming on my own with &lt;a href=&quot;http://teamtreehouse.com/&quot;&gt;Tree House&lt;/a&gt;, and things like that, but it seemed like it was just taking forever. &lt;/p&gt;
+
+&lt;h2&gt;Why did you choose The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;Mom and dad live up here in Atlanta. They actually just recently moved here. I was living in Orlando, and my parents didn&amp;#39;t like that too much. Mom wanted me to move to Atlanta and in time raise a family here. You know she&amp;#39;s hoping for grandkids one day. Dad found an article from the Business Journal that highlighted &lt;a href=&quot;http://theironyard.com/locations/atlanta/&quot;&gt;The Iron Yard&lt;/a&gt;. He knew I was learning to code on my own and encouraged me to look into it. I started looking into other thing that were written about The Iron Yard, and all I could find were stellar reviews. I couldn&amp;#39;t believe the guaranteed job placement. The &lt;a href=&quot;http://theironyard.com/&quot;&gt;website&lt;/a&gt; looked amazing so, I took a shot and applied to it. The next thing I know, &lt;a href=&quot;https://twitter.com/saddington&quot;&gt;John Saddington&lt;/a&gt; called me up. I really didn&amp;#39;t look into any other bootcamps or programs. Mom and dad said, &amp;quot;Listen, if you come up to Atlanta, you can live with us for free, and we will pay for your class.&amp;quot; How could I turn that down? I mean don&amp;#39;t get me wrong, I researched The Iron Yard heavily, but I never considered another program. Everything that I saw or read about The Iron Yard was very positive. I felt that I didn&amp;#39;t have to look any further than The Iron Yard. &lt;/p&gt;
+
+&lt;h2&gt;So why Ruby on Rails?&lt;/h2&gt;
+
+&lt;p&gt;As I mentioned, I was a cinema major in college and had a strong visual background. I also knew from college that there were people far more creative than I was and far more talented at design than I could ever be. So, in light of that &lt;em&gt;I felt back-end development would be a better fit for me&lt;/em&gt;. When I was in high school, I had never drawn before. I was really bad at drawing, but somehow I developed an ability for still life drawing. Surprisingly, I became one of the best artists in my high school. One of my drawings actually won second place in a state wide art festival. Really cool, right? So, I think to myself, &amp;quot;Yeah, I am a real rockstar. I&amp;#39;m the best in my high school, I&amp;#39;m best in the state.&amp;quot; Then, I get to college and realize just how talented the other artists are around me were. I knew that I could never compete with them. I understand it&amp;#39;s not a competition, but I definitely wasn&amp;#39;t as good as I thought I was. I took that into consideration when choosing Rails, and I believe I made the right choice. I really enjoy the problem solving. &lt;em&gt;It&amp;#39;s like I&amp;#39;m solving puzzles all day&lt;/em&gt;. &lt;/p&gt;
+
+&lt;h2&gt;Expectations vs. actual experience?&lt;/h2&gt;
+
+&lt;p&gt;I knew The Iron Yard was going to be exceptionally hard. I will say that my classmates are a lot &lt;em&gt;less&lt;/em&gt; nerdy than I thought they would be. On a side note, I&amp;#39;m really surprised at how many married people there are in the class. That was definitely surprising. I just assumed everyone would be young and single. For the most part though, everyone is kind of the same, mid 20s to early 30s, intelligent. Everyone here is really intelligent; it&amp;#39;s very obvious. And everyone is really nice. There are very broad backgrounds. We&amp;#39;ve got Jeff who is an engineer. I studied cinema. Sid a chemical engineer. Chris worked in non-profits. Dave worked for the DoD. Dan did marketing. &lt;em&gt;Such a broad range of backgrounds which has definitely made things interesting&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Best advice for those considering a coding bootcamp?&lt;/h2&gt;
+
+&lt;p&gt;Prepare as much as you possibly can! I found out about The Iron Yard a month before it began so, I didn&amp;#39;t have much time to prepare. Though, I did do quite a bit on &lt;a href=&quot;http://teamtreehouse.com/&quot;&gt;Tree House&lt;/a&gt; prior to my arrival. I completed the Ruby track on &lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt; before attending with John&amp;#39;s recommendation. I hear &lt;a href=&quot;http://www.railstutorial.org/book&quot;&gt;Michael Hartl&amp;#39;s tutorials&lt;/a&gt; are really good. Definitely get familiar with the &lt;a href=&quot;http://ruby-doc.org/&quot;&gt;Ruby&lt;/a&gt; and &lt;a href=&quot;http://guides.rubyonrails.org/&quot;&gt;Rails&lt;/a&gt; docs. We use them a lot! Ruby docs will be used day 1.&lt;/p&gt;
+
+&lt;p&gt;Be prepared to work very long and very hard. Realize that you&amp;#39;re not going to have a life for three month. It seems like that I&amp;#39;m working non-stop but, I make it a point to not code on Sunday. &lt;em&gt;It&amp;#39;s a chance to hit the reset button&lt;/em&gt;. But, it is honestly hard to not think about code. Last Sunday, I went to the Atlanta History Museum with my family, and I found myself thinking about code. Specifically, Ajax. I was wondering how I could get past a specific problem I was struggling with. But, I do my best to try put those thoughts in the back of my mind and rest my mind for at least one day a week. &lt;/p&gt;
+
+&lt;h2&gt;What do you enjoy most about The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;Free beer. Wait . . . is this thing recording? In all honesty, the tools The Iron Yard provides for us—24-hour access to &lt;a href=&quot;http://atlantatechvillage.com/&quot;&gt;ATV&lt;/a&gt;, the guest speakers, John Saddington, the meet-ups, and opportunities like &lt;a href=&quot;http://atlanta.startupweekend.org/&quot;&gt;start-up weekend&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/timwco/status/475279395738124288/photo/1&quot;&gt;hack-a-thons&lt;/a&gt;. The Atlanta Tech Village, where we have our classes, is absolutely amazing. It&amp;#39;s a fantastic building with some incredible amenities. But, by far, the student body is the best! Everyone here is so much fun to be around and just hang out. We often &lt;em&gt;waste&lt;/em&gt; time just sitting around chatting and I enjoy every minute of it. We&amp;#39;re all in this thing together, there&amp;#39;s no room for egos. We all pick each other up and that creates a really positive environment.&lt;/p&gt;
+
+&lt;h2&gt;Your experience before coming to The Iron Yard?&lt;/h2&gt;
+
+&lt;p&gt;Failing Java, haha. &lt;/p&gt;
+
+&lt;h2&gt;Where do you see yourself going from here?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#39;ve been so focused lately, that I haven&amp;#39;t even thought about it. &lt;em&gt;And believe me, that&amp;#39;s a good thing&lt;/em&gt;. The last thing you need is something to distract you from coding. I haven&amp;#39;t even thought of the big picture once I&amp;#39;m done. I&amp;#39;d love to get a job overseas in some place exotic. Working as a developer in Paris, Berlin, Rome, Venice, Hong Kong, Taiwan, Tokyo, Okinawa, or Osaka would be awesome. I really like the idea that as a developer, I can work remotely from anywhere. &lt;/p&gt;
+
+&lt;p&gt;&lt;img&gt;&lt;img src=&quot;/assets/2014-06-09-ryan-snodgrass.jpg&quot; alt=&quot;Ryan Snodgrass Iron Yard Ruby on Rails&quot;&gt;&lt;/img&gt;
+&lt;figure&gt;&lt;figcaption&gt;Find Ryan at his &lt;a href=&quot;http://snodgrassry.wordpress.com/&quot;&gt;Blog&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/_ryansnodgrass&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://github.com/ryansnodgrass&quot;&gt;GitHub&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2&gt;About Ryan&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/ryansnodgrass&quot;&gt;Ryan&lt;/a&gt; is a 28 year-old movie buff who recently moved to the Atlanta area from Orlando, FL. After realizing his degree from Central Florida University wouldn&amp;#39;t land him his dream job, Ryan started learning to code at &lt;a href=&quot;http://teamtreehouse.com/&quot;&gt;Tree House&lt;/a&gt;. He&amp;#39;s been hooked ever since. He makes the commute from Marietta each day to attend &lt;a href=&quot;http://theironyard.com/locations/atlanta/&quot;&gt;The Iron Yard&lt;/a&gt; in Atlanta. &lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Meet Jeff Scholen</title>
