@@ -32,7 +32,7 @@ I've messed around with computer stuff in the past, but never anything too serio
 Clear your schedule as much as possible. You're going to be incredibly busy. I still have free time to to do stuff I want, but I definitely feel like I am going full speed ahead **all of the time**. It's difficult to catch a moment to step back and take breath, but I feel like I am picking it up pretty well. I am not too worried about it. I couldn't imagine trying to be a part of a coding bootcamp and have a job at the same time. I don't think it would be possible. I would really advise devoting as much time as possible to it and give it your 100% undivided attention. 
 
 <img>![Dan Cornnell Iron Yard Ruby on Rails]({{ natewinn.com }}/assets/2014-06-10-dan-cornnell.jpg)</img>
-<figure><figcaption>Find Dan at his on [Twitter](https://twitter.com/DanCornnell) and [GitHub](https://github.com/dcornnell)</figcaption></figure>
+<figure><figcaption>Find Dan on [Twitter](https://twitter.com/DanCornnell) and [GitHub](https://github.com/dcornnell)</figcaption></figure>
 
 ## About Dan
 [Dan](https://www.linkedin.com/pub/daniel-cornnell/3a/7bb/25) is an avid rock climber. He commutes about 45 minutes on MARTA to make it to The Iron Yard each day. His goal in coming to [The Iron Yard](http://theironyard.com/locations/atlanta/) was simple, "get a job I actually find interesting."
