@@ -14,10 +14,10 @@ Shortly after the first of the year, I was casually browsing through Twitter and
 I quickly googled “The Iron Yard,” and my curiosity was instantly peaked. I immediately emailed John, and it just so happened that he was going to be in San Francisco (only a 30 minute drive from my home) the very next day to speak at a conference. 
 
 ## My Year
-While grabbing sushi together that next evening, John told me just a handful of the amazing stories of people in my similar situation that had attended The Iron Yard. In just a 3-month period of time, people were completely changing the course of their lives. Just before I hopped into my car to drive home from the city that evening, John tweeted this...
+While grabbing sushi together that next evening, John told me just a handful of stories of people in my similar situation that were attended The Iron Yard. Just before I hopped into my car to drive home from the city that evening, John tweeted this...
 
 <img><p align="center"><blockquote class="twitter-tweet" lang="en"><p>Make this the year. Don’t let it go to waste.</p>&mdash; John Saddington (@saddington) <a href="https://twitter.com/saddington/statuses/428403179722506240">January 29, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p></img>
 <p>
 
-That night, I decided this was going to be my year! Today, exactly one year from the day I registered at Dev Bootcamp, I’m writing this post from inside [Atlanta Tech Village](http://atlantatechvillage.com/). Though only one week into the Rails dev cohort, I’ve already been challenged, stretched, and pushed more in this short period than I ever have in my entire life!
+That night, I decided this was going to be my year! Today, exactly one year from the day I registered at Dev Bootcamp, I’m writing this post from inside [Atlanta Tech Village](http://atlantatechvillage.com/). Though only one week into the Rails dev cohort, I’ve already been challenged, stretched, and pushed so much!

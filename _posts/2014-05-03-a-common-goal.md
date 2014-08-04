@@ -4,7 +4,7 @@ title: A Common Goal
 comments: true
 ---
 
-Having someone with which to strive toward a common goal will exponentially increase your chances of success. This is exactly why the [cohort model](http://john.do/dream-big-dreams/) at The Iron Yard is so awesome. When sailing out into unchartered territory and attempting to achieve something big, it is *vital* to have someone you can be accountable to—someone who is able to celebrate each success, yet encourage with every setback. 
+Having someone with which to strive toward a common goal will exponentially increase your chances of success. When sailing out into unchartered territory and attempting to achieve something big, it is *vital* to have someone you can be accountable to—someone who is able to celebrate each success, yet encourage with every setback. 
 
 ## An Equal Challenge
 When my wife and I finally decided I would attend The Iron Yard, she also wanted to challenge herself. She knew I was facing the most difficult challenges of my life so; she also wanted conquer something equally as challenging—run a marathon. As we have both had our ups and downs in striving to reach our goals, we are able to *keep each other motivated* to stay on track to reach our respective goals.
@@ -18,4 +18,4 @@ This weekend, I was able to fly across the country for just a day and a half to 
 <img>![Winn Family After the Race]({{ natewinn.com }}/assets/2014-05-03-after-run.jpg)</img>
 <figure><figcaption>After Crossing the Finish Line</figcaption></figure> 
 
-There have been *numerous* times along the way that I've really wanted to throw in the towel. It says **intensive** on The Iron Yard website for good reason! But, I try to remember the [people]({% post_url 2014-04-15-teamwork-makes-the-dream-work %}) pulling for me, and I don't want to let them down. I would encourage you in setting out to achieve something big, take someone along for the ride.
+There have been *numerous* times along the way that I've really wanted to throw in the towel. But, I try to remember the [people]({% post_url 2014-04-15-teamwork-makes-the-dream-work %}) pulling for me, and I don't want to let them down. I would encourage you in setting out to achieve something big, take someone along for the ride.

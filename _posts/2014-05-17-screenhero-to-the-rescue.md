@@ -30,6 +30,6 @@ I didn't quite realize how awesome Screenhero was until completing a group assig
 ## But wait there's more!
 The possibilities are endless! And it's not just a great tool for collaboration, but for troubleshooting as well. It's the perfect app to help a family member with a nagging computer problem. No need to wait for Thanksgiving dinner to help Uncle Ed get his computer squared away. 
 
-Screenhero has become an *invaluable tool* among our cohort at The Iron Yard - to get emergency assistant from our instructor, Shelby, collaborate on group assignments, or lend each other a hand.
+Screenhero has become an *invaluable tool* amongst our cohort at The Iron Yard - to collaborate on group assignments or lend each other a hand.
 
 All this for the low, low price of . . . **free**. Go get it [now](http://screenhero.com/download.html).

@@ -4,7 +4,7 @@ title: Projects to Products
 comments: true
 ---
 
-John spoke to us today about his latest creation [Pressgram](http://pressgr.am/), an iOS app that allows you to edit, filter, and publish photos to your own blog and site. It was a practical look into turning a *project* into a sellable *product*. The talk was **epic** with tons of practical advice from a proven entrepreneur. Here are my top takeaways . . .
+John spoke to us today about  [Pressgram](http://pressgr.am/), an iOS app that allows you to edit, filter, and publish photos to your own WordPress blog and site. It was a practical look into turning a *project* into a sellable *product*. The talk was full of practical advice from an entrepreneur. Here are my top takeaways . . .
 
 ## Innovative solutions are mashups of ineffective solutions
 There is nothing new under the sun! Innovators that are winning are able to take current ineffective solutions and mash them up to create a winning product. 
